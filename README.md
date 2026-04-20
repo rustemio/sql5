@@ -82,7 +82,7 @@ Proje raporu repo içinde yer almaktadır:
 
 Proje anlatım videosu bağlantısı:
 
-- `BURAYA_VIDEO_LINKI_EKLE`
+[Proje Videosunu İzlemek İçin Tıklayın](https://youtu.be/Q8hXmIhZ2uw)
 
 ## Sonuç
 
