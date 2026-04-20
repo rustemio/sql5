@@ -1,0 +1,401 @@
+﻿Account_Id,Lead_Owner,First_Name,Last_Name,Company,Phone_1,Phone_2,Email_1,Email_2,Website,Source,Deal_Stage,Notes
+ACC-0001,Merve,  Ali  ,DEMIR,Sun Trade,+90 583 184 24 30,+90 593 881 26 86,ali.demir.lead1@mail.com,contact1@suntrade.com,www.suntrade.com,Email Campaign,Lost,Potential B2B customer
+ACC-0002,Aylin,Selin,Demir,DELTA SOFT,+90 563 476 33 60,,selin.demir.lead2@mail.com,CONTACT2@DELTASOFT.COM,www.deltasoft.com,Website,Negotiation,Potential B2B customer
+ACC-0003,Rustem,Ahmet,POLAT,Sun Trade,+90 531 150 61 89,+90 543 252 21 57,AHMET.POLAT.LEAD3@MAIL.COM,contact3@suntrade.com,www.suntrade.com,Website,Won,Potential B2B customer
+ACC-0004,Burak,  Deniz  ,Koc,ARTEMIS LTD,+90 544 394 73 58,+90 536 714 37 46,deniz.koc.lead4@mail.com,,www.artemisltd.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0005,Merve,Mehmet,Yilmaz,Delta Soft,+90 597 762 68 20,+90 527 992 51 98,mehmet.yilmaz.lead5@mail.com,,www.deltasoft.com,Email Campaign,Won,Potential B2B customer
+ACC-0006,Aylin,  Murat  ,Polat,DELTA SOFT,+90 555 720 95 86,,  murat.polat.lead6@mail.com  ,contact6@deltasoft.com,www.deltasoft.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0007,Aylin,  Murat  ,ARSLAN,BLUE MARKET,+90 573 447 69 26,+90 577 543 28 43,MURAT.ARSLAN.LEAD7@MAIL.COM,,www.bluemarket.com,Website,Contacted,Potential B2B customer
+ACC-0008,Burak,Zeynep,Celik,Sun Trade,+90 543 629 50 65,,zeynep.celik.lead8@mail.com,contact8@suntrade.com,www.suntrade.com,,Negotiation,Potential B2B customer
+ACC-0009,Rustem,AHMET,  Aydin  ,Nova Tech,+90 569 546 24 73,+90 555 826 81 72,ahmet.aydin.lead9@mail.com,contact9@novatech.com,www.novatech.com,LinkedIn,New,Potential B2B customer
+ACC-0010,Merve,Elif,Kaya,Blue Market,+90 582 779 84 37,,elif.kaya.lead10@mail.com,,www.bluemarket.com,Referral,Contacted,Potential B2B customer
+ACC-0011,Rustem,Murat,  Kaya  ,Blue Market,+90 597 224 60 57,,murat.kaya.lead11@mail.com,,www.bluemarket.com,LinkedIn,New,Potential B2B customer
+ACC-0012,Burak,Ayşe,Aydin,Sun Trade,+90 552 144 93 89,,ayşe.aydin.lead12@mail.com,,www.suntrade.com,Trade Fair,Lost,Potential B2B customer
+ACC-0013,Selim,Ece,  Demir  ,  Blue Market  ,+90 587 490 21 61,+90 540 889 61 21,ECE.DEMIR.LEAD13@MAIL.COM,,www.bluemarket.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0014,Merve,  Murat  ,Koc,Delta Soft,+90 549 801 87 26,+90 522 952 57 75,MURAT.KOC.LEAD14@MAIL.COM,,www.deltasoft.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0015,Rustem,Zeynep,Celik,Pixel House,+90 565 745 64 21,+90 553 574 96 38,,,www.pixelhouse.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0016,Burak,  Ahmet  ,Ozturk,Nova Tech,+90 526 800 48 41,,AHMET.OZTURK.LEAD16@MAIL.COM,CONTACT16@NOVATECH.COM,www.novatech.com,Website,New,Potential B2B customer
+ACC-0017,Rustem,Deniz,Kaya,Pixel House,+90 555 360 84 20,,DENIZ.KAYA.LEAD17@MAIL.COM,contact17@pixelhouse.com,www.pixelhouse.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0018,Selim,Mehmet,Koc,Nova Tech,+90 567 738 43 53,,mehmet.koc.lead18@mail.com,CONTACT18@NOVATECH.COM,www.novatech.com,Trade Fair,Negotiation,Potential B2B customer
+ACC-0019,Rustem,Can,  Kaya  ,Artemis Ltd,+90 568 808 61 94,,can.kaya.lead19@mail.com,,www.artemisltd.com,Referral,Lost,Potential B2B customer
+ACC-0020,Burak,Ece,  Arslan  ,  Sun Trade  ,+90 534 214 12 99,,ece.arslan.lead20@mail.com,,www.suntrade.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0021,Aylin,AHMET,Sahin,Artemis Ltd,+90 570 532 12 24,+90 529 856 99 66,ahmet.sahin.lead21@mail.com,,www.artemisltd.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0022,Burak,  Fatma  ,  Sahin  ,   Nova Tech,+90 565 525 73 84,,fatma.sahin.lead22@mail.com,,www.deltasoft.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0023,Burak,ZEYNEP,  Ozturk  ,NOVA TECH   ,+90 583 423 80 18,+90 592 527 70 24,zeynep.ozturk.lead23@mail.com,,www.pixelhouse.com,Instagram,Proposal,Potential B2B customer
+ACC-0024,Merve,Selin,Koc,Nova Tech,+90 585 801 53 87,,selin.koc.lead24@mail.com,contact24@novatech.com,www.novatech.com,Trade Fair,Won,Potential B2B customer
+ACC-0025,Selim,Murat,Koc,Sun Trade,+90 589 312 46 98,,murat.koc.lead25@mail.com,,www.suntrade.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0026,Burak,Ece,AYDIN,  Nova Tech  ,+90 512 467 43 55,,ECE.AYDIN.LEAD26@MAIL.COM,,www.novatech.com,Referral,New,Potential B2B customer
+ACC-0027,Merve,  Ayşe  ,ARSLAN,Artemis Ltd,+90 553 903 55 15,,ayşe.arslan.lead27@mail.com,contact27@artemisltd.com,www.artemisltd.com,Referral,Negotiation,Potential B2B customer
+ACC-0028,Burak,Ahmet,Kaya,Sun Trade,+90 523 900 88 88,,ahmet.kaya.lead28@mail.com,CONTACT28@SUNTRADE.COM,www.suntrade.com,Website,Contacted,Potential B2B customer
+ACC-0029,Merve,Ahmet,Kaya,Blue Market,+90 573 850 22 29,,ahmet.kaya.lead29@mail.com,,www.bluemarket.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0030,Burak,Murat,Yilmaz,  Blue Market  ,+90 557 832 63 56,,MURAT.YILMAZ.LEAD30@MAIL.COM,,www.bluemarket.com,Referral,Proposal,Potential B2B customer
+ACC-0031,Burak,Fatma,Demir,Artemis Ltd,+90 597 470 13 66,+90 511 834 76 18,FATMA.DEMIR.LEAD31@MAIL.COM,contact31@artemisltd.com,www.artemisltd.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0032,Merve,Ali,  Koc  ,Nova Tech,+90 594 996 76 47,+90 597 817 80 48,ali.koc.lead32@mail.com,,www.novatech.com,Instagram,New,Potential B2B customer
+ACC-0033,Burak,Can,OZTURK,Pixel House,+90 589 767 66 99,+90 593 514 35 48,CAN.OZTURK.LEAD33@MAIL.COM,,www.pixelhouse.com,Referral,Qualified,Potential B2B customer
+ACC-0034,Selim,MURAT,Demir,Pixel House,+90 553 875 91 30,+90 579 706 43 40,murat.demir.lead34@mail.com,,www.pixelhouse.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0035,Aylin,Ayşe,  Yilmaz  ,Delta Soft,+90 525 559 48 83,,ayşe.yilmaz.lead35@mail.com,contact35@deltasoft.com,www.deltasoft.com,Referral,Negotiation,Potential B2B customer
+ACC-0036,Selim,Selin,Ozturk,Pixel House,+90 596 243 58 76,,SELIN.OZTURK.LEAD36@MAIL.COM,contact36@pixelhouse.com,www.pixelhouse.com,LinkedIn,Lost,Potential B2B customer
+ACC-0037,Burak,Elif,  Aydin  ,  Nova Tech  ,+90 526 587 37 67,+90 596 638 61 85,elif.aydin.lead37@mail.com,contact37@novatech.com,www.novatech.com,Referral,Proposal,Potential B2B customer
+ACC-0038,Burak,Ahmet,Koc,ARTEMIS LTD,+90 574 230 72 68,+90 575 983 77 25,ahmet.koc.lead38@mail.com,,www.artemisltd.com,Website,Won,Potential B2B customer
+ACC-0039,Rustem,Mehmet,Ozturk,  Delta Soft  ,+90 583 396 15 76,+90 557 412 57 48,MEHMET.OZTURK.LEAD39@MAIL.COM,,www.deltasoft.com,Website,Lost,Potential B2B customer
+ACC-0040,Selim,Mehmet,DEMIR,Pixel House,+90 572 102 25 80,+90 515 527 71 83,mehmet.demir.lead40@mail.com,contact40@pixelhouse.com,www.pixelhouse.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0041,Aylin,Selin,Polat,Blue Market,+90 529 987 51 21,,selin.polat.lead41@mail.com,,www.bluemarket.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0042,Burak,Elif,Ozturk,Nova Tech,+90 513 685 90 49,,ELIF.OZTURK.LEAD42@MAIL.COM,,www.novatech.com,Referral,New,Potential B2B customer
+ACC-0043,Rustem,Fatma,Polat,Pixel House,+90 574 119 25 94,,FATMA.POLAT.LEAD43@MAIL.COM,,www.pixelhouse.com,Website,Qualified,Potential B2B customer
+ACC-0044,Aylin,Fatma,Sahin,Sun Trade,+90 561 703 15 72,,FATMA.SAHIN.LEAD44@MAIL.COM,,www.suntrade.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0045,Selim,  Murat  ,Yilmaz,Pixel House,+90 546 247 33 42,,MURAT.YILMAZ.LEAD45@MAIL.COM,contact45@pixelhouse.com,www.pixelhouse.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0046,Rustem,Ali,  Polat  ,  Delta Soft  ,+90 551 364 58 25,+90 540 870 86 85,ALI.POLAT.LEAD46@MAIL.COM,contact46@deltasoft.com,www.deltasoft.com,Referral,Proposal,Potential B2B customer
+ACC-0047,Aylin,Ayşe,Celik,Nova Tech,+90 539 119 44 80,,ayşe.celik.lead47@mail.com,contact47@novatech.com,www.novatech.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0048,Aylin,ECE,Koc,Artemis Ltd,+90 531 900 41 78,,ece.koc.lead48@mail.com,CONTACT48@ARTEMISLTD.COM,www.artemisltd.com,Email Campaign,Lost,Potential B2B customer
+ACC-0049,Rustem,  Ece  ,Celik,Sun Trade,+90 542 959 97 58,,ece.celik.lead49@mail.com,,www.suntrade.com,Referral,Qualified,Potential B2B customer
+ACC-0050,Rustem,Ali,Demir,  Sun Trade  ,+90 527 842 81 45,,ALI.DEMIR.LEAD50@MAIL.COM,,www.suntrade.com,Referral,Lost,Potential B2B customer
+ACC-0051,Burak,Elif,Arslan,Sun Trade,+90 536 570 86 52,+90 598 236 92 10,  elif.arslan.lead51@mail.com  ,CONTACT51@SUNTRADE.COM,www.suntrade.com,LinkedIn,Proposal,  urgent lead  
+ACC-0052,Rustem,Deniz,Aydin,Artemis Ltd,+90 566 788 25 55,,deniz.aydin.lead52@mail.com,,www.artemisltd.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0053,Merve,Selin,YILMAZ,  Nova Tech  ,+90 545 796 55 34,+90 588 740 48 38,SELIN.YILMAZ.LEAD53@MAIL.COM,contact53@novatech.com,www.novatech.com,Instagram,New,Potential B2B customer
+ACC-0054,Merve,  Can  ,Aydin,Sun Trade,+90 524 990 45 82,,CAN.AYDIN.LEAD54@MAIL.COM,,www.suntrade.com,LinkedIn,Won,Potential B2B customer
+ACC-0055,Aylin,SELIN,Polat,Sun Trade,+90 526 365 82 39,,selin.polat.lead55@mail.com,,www.suntrade.com,Trade Fair,New,Potential B2B customer
+ACC-0056,Aylin,Selin,  Ozturk  ,Pixel House,+90 596 765 16 51,+90 562 380 25 97,selin.ozturk.lead56@mail.com,contact56@pixelhouse.com,www.pixelhouse.com,Website,Won,Potential B2B customer
+ACC-0057,Aylin,Fatma,  Yilmaz  ,DELTA SOFT,+90 520 685 13 38,,  fatma.yilmaz.lead57@mail.com  ,,www.deltasoft.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0058,Rustem,  Mehmet  ,Arslan,  Delta Soft  ,+90 590 442 42 41,+90 540 448 16 52,mehmet.arslan.lead58@mail.com,CONTACT58@DELTASOFT.COM,www.deltasoft.com,Referral,Negotiation,Potential B2B customer
+ACC-0059,Rustem,  Zeynep  ,  Kaya  ,  Sun Trade  ,+90 550 968 98 18,,ZEYNEP.KAYA.LEAD59@MAIL.COM,contact59@suntrade.com,www.suntrade.com,Website,Qualified,Potential B2B customer
+ACC-0060,Rustem,Ece,Koc,Nova Tech,+90 522 732 62 39,,ece.koc.lead60@mail.com,contact60@novatech.com,www.novatech.com,Email Campaign,Lost,Potential B2B customer
+ACC-0061,Rustem,Murat,Polat,PIXEL HOUSE,+90 523 112 86 18,,murat.polat.lead61@mail.com,CONTACT61@PIXELHOUSE.COM,www.pixelhouse.com,Referral,Qualified,Potential B2B customer
+ACC-0062,Burak,ELIF,  Koc  ,  Artemis Ltd  ,+90 526 419 84 65,,elif.koc.lead62@mail.com,,www.artemisltd.com,Referral,Negotiation,Potential B2B customer
+ACC-0063,Selim,Mehmet,Demir,Artemis Ltd,+90 594 794 28 17,+90 581 979 16 64,mehmet.demir.lead63@mail.com,contact63@artemisltd.com,www.artemisltd.com,LinkedIn,Lost,Potential B2B customer
+ACC-0064,Burak,Ayşe,Arslan,Blue Market,+90 552 730 48 63,+90 523 565 15 73,AYŞE.ARSLAN.LEAD64@MAIL.COM,,www.bluemarket.com,Website,Won,Potential B2B customer
+ACC-0065,Merve,Fatma,Sahin,Artemis Ltd,+90 558 310 61 33,,FATMA.SAHIN.LEAD65@MAIL.COM,,www.artemisltd.com,Website,New,Potential B2B customer
+ACC-0066,Selim,Elif,Yilmaz,Pixel House,+90 556 144 13 35,+90 532 324 43 32,elif.yilmaz.lead66@mail.com,CONTACT66@PIXELHOUSE.COM,www.pixelhouse.com,Website,Contacted,Potential B2B customer
+ACC-0067,Merve,Can,Kaya,  Nova Tech  ,+90 536 412 68 40,+90 557 776 31 77,can.kaya.lead67@mail.com,,www.novatech.com,Email Campaign,Won,Potential B2B customer
+ACC-0068,Merve,Ayşe,KAYA,Blue Market,+90 557 425 86 64,,AYŞE.KAYA.LEAD68@MAIL.COM,,www.bluemarket.com,Website,Lost,Potential B2B customer
+ACC-0069,Selim,Ece,Polat,  Blue Market  ,+90 545 993 26 75,,ece.polat.lead69@mail.com,,www.bluemarket.com,Website,Lost,Potential B2B customer
+ACC-0070,Burak,Zeynep,Polat,Nova Tech,+90 573 631 69 32,+90 557 638 98 71,zeynep.polat.lead70@mail.com,CONTACT70@NOVATECH.COM,www.novatech.com,Email Campaign,Won,Potential B2B customer
+ACC-0071,Merve,Ece,YILMAZ,BLUE MARKET,+90 564 486 83 30,,ece.yilmaz.lead71@mail.com,CONTACT71@BLUEMARKET.COM,www.bluemarket.com,Website,Qualified,Potential B2B customer
+ACC-0072,Rustem,Zeynep,Ozturk,Delta Soft,+90 569 542 62 57,,zeynep.ozturk.lead72@mail.com,CONTACT72@DELTASOFT.COM,www.deltasoft.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0073,Selim,Ahmet,Kaya,Delta Soft,+90 545 333 22 25,+90 514 659 35 52,AHMET.KAYA.LEAD73@MAIL.COM,,www.deltasoft.com,Instagram,Qualified,Potential B2B customer
+ACC-0074,Merve,Can,Celik,Blue Market,+90 543 108 48 46,,can.celik.lead74@mail.com,,www.bluemarket.com,Email Campaign,Lost,Potential B2B customer
+ACC-0075,Merve,Ece,YILMAZ,Artemis Ltd,+90 536 585 39 76,,ece.yilmaz.lead75@mail.com,,www.artemisltd.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0076,Burak,AYŞE,Arslan,Blue Market,+90 557 242 83 26,+90 511 611 94 55,ayşe.arslan.lead76@mail.com,contact76@bluemarket.com,www.bluemarket.com,Email Campaign,Lost,Potential B2B customer
+ACC-0077,Rustem,Selin,  Ozturk  ,  Delta Soft  ,+90 552 681 90 87,,selin.ozturk.lead77@mail.com,contact77@deltasoft.com,www.deltasoft.com,Email Campaign,New,Potential B2B customer
+ACC-0078,Selim,Deniz,Koc,Blue Market,+90 521 275 23 96,,DENIZ.KOC.LEAD78@MAIL.COM,contact78@bluemarket.com,www.bluemarket.com,Email Campaign,New,Potential B2B customer
+ACC-0079,Burak,Mehmet,SAHIN,Nova Tech,+90 518 565 17 57,,MEHMET.SAHIN.LEAD79@MAIL.COM,,www.novatech.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0080,Burak,Mehmet,Kaya,Blue Market,+90 536 233 36 49,+90 595 586 30 87,mehmet.kaya.lead80@mail.com,,www.bluemarket.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0081,Merve,Selin,Aydin,Delta Soft,+90 541 638 52 82,,selin.aydin.lead81@mail.com,contact81@deltasoft.com,www.deltasoft.com,Instagram,Won,Potential B2B customer
+ACC-0082,Selim,Zeynep,Arslan,Sun Trade,+90 563 355 32 89,,zeynep.arslan.lead82@mail.com,,www.suntrade.com,LinkedIn,Won,Potential B2B customer
+ACC-0083,Rustem,ECE,Kaya,Artemis Ltd,+90 590 650 47 95,,ece.kaya.lead83@mail.com,,www.artemisltd.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0084,Rustem,Murat,Ozturk,Nova Tech,+90 562 561 31 42,+90 515 573 13 19,murat.ozturk.lead84@mail.com,,www.novatech.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0085,Rustem,Elif,Koc,  Blue Market  ,+90 595 866 69 72,+90 520 661 94 41,elif.koc.lead85@mail.com,contact85@bluemarket.com,www.bluemarket.com,Instagram,Lost,Potential B2B customer
+ACC-0086,Merve,Mehmet,Demir,Nova Tech,+90 519 787 11 96,+90 566 466 32 37,mehmet.demir.lead86@mail.com,,www.novatech.com,Referral,Contacted,Potential B2B customer
+ACC-0087,Rustem,Zeynep,Yilmaz,  Sun Trade  ,+90 510 149 58 35,,zeynep.yilmaz.lead87@mail.com,,www.suntrade.com,Website,New,Potential B2B customer
+ACC-0088,Merve,Murat,  Yilmaz  ,Nova Tech,+90 522 916 95 31,,MURAT.YILMAZ.LEAD88@MAIL.COM,contact88@novatech.com,www.novatech.com,Instagram,Qualified,Potential B2B customer
+,Aylin,Deniz,Sahin,PIXEL HOUSE,+90 523 465 51 32,+90 593 423 11 59,DENIZ.SAHIN.LEAD89@MAIL.COM,CONTACT89@PIXELHOUSE.COM,www.pixelhouse.com,Trade Fair,Lost,Potential B2B customer
+ACC-0090,Merve,Can,Polat,Delta Soft,+90 523 829 78 82,+90 522 714 51 90,can.polat.lead90@mail.com,contact90@deltasoft.com,www.deltasoft.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0091,Selim,Elif,Demir,  Sun Trade  ,+90 512 723 84 67,+90 591 859 39 74,elif.demir.lead91@mail.com,,www.suntrade.com,LinkedIn,New,Potential B2B customer
+ACC-0092,Burak,Ece,Kaya,  Delta Soft  ,+90 557 610 47 35,+90 536 757 14 40,ece.kaya.lead92@mail.com,contact92@deltasoft.com,www.deltasoft.com,Trade Fair,Qualified,Potential B2B customer
+ACC-0093,Rustem,Mehmet,Celik,Delta Soft,+90 546 868 13 39,,mehmet.celik.lead93@mail.com,,www.deltasoft.com,Referral,New,Potential B2B customer
+ACC-0094,Merve,Ahmet,Sahin,Sun Trade,+90 566 744 10 18,,AHMET.SAHIN.LEAD94@MAIL.COM,,www.suntrade.com,LinkedIn,New,Potential B2B customer
+ACC-0095,Merve,Ahmet,Demir,Blue Market,+90 540 619 20 64,,ahmet.demir.lead95@mail.com,CONTACT95@BLUEMARKET.COM,www.bluemarket.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0096,Merve,Fatma,Celik,  Delta Soft  ,+90 556 507 58 31,+90 564 617 88 65,fatma.celik.lead96@mail.com,,www.deltasoft.com,Email Campaign,New,Potential B2B customer
+ACC-0097,Selim,Murat,KOC,Nova Tech,+90 542 489 69 49,+90 558 675 87 71,MURAT.KOC.LEAD97@MAIL.COM,,www.novatech.com,LinkedIn,Won,Potential B2B customer
+ACC-0098,Rustem,  Zeynep  ,Sahin,Blue Market,+90 572 514 63 60,,zeynep.sahin.lead98@mail.com,,www.bluemarket.com,Trade Fair,Negotiation,Potential B2B customer
+ACC-0099,Rustem,Ayşe,Koc,NOVA TECH,+90 565 361 54 75,,ayşe.koc.lead99@mail.com,,www.novatech.com,Website,Won,Potential B2B customer
+ACC-0100,Burak,  Murat  ,Koc,Sun Trade,+90 596 128 99 95,,MURAT.KOC.LEAD100@MAIL.COM,contact100@suntrade.com,www.suntrade.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0101,Merve,  Can  ,Sahin,Pixel House,+90 559 507 85 20,,CAN.SAHIN.LEAD101@MAIL.COM,,www.pixelhouse.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0102,Aylin,Murat,Celik,Sun Trade,+90 562 870 21 23,,murat.celik.lead102@mail.com,CONTACT102@SUNTRADE.COM,www.suntrade.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0103,Merve,Selin,  Koc  ,  Sun Trade  ,+90 599 527 77 63,,selin.koc.lead103@mail.com,contact103@suntrade.com,www.suntrade.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0104,Rustem,Fatma,Aydin,BLUE MARKET,+90 517 867 33 34,+90 562 551 90 89,FATMA.AYDIN.LEAD104@MAIL.COM,,www.bluemarket.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0105,Selim,  Ayşe  ,  Celik  ,NOVA TECH,+90 572 788 22 11,+90 510 781 84 15,AYŞE.CELIK.LEAD105@MAIL.COM,contact105@novatech.com,www.novatech.com,Website,Proposal,Potential B2B customer
+ACC-0106,Burak,Ece,Ozturk,Delta Soft,+90 597 451 50 40,,ece.ozturk.lead106@mail.com,,www.deltasoft.com,Website,Qualified,Potential B2B customer
+ACC-0107,Burak,Elif,Kaya,  Nova Tech  ,+90 587 225 77 45,,elif.kaya.lead107@mail.com,contact107@novatech.com,www.novatech.com,Trade Fair,Won,Potential B2B customer
+ACC-0108,Rustem,Zeynep,Ozturk,Artemis Ltd,+90 512 748 56 15,,zeynep.ozturk.lead108@mail.com,,www.artemisltd.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0109,Rustem,Zeynep,Koc,Sun Trade,+90 570 774 99 22,,ZEYNEP.KOC.LEAD109@MAIL.COM,,www.suntrade.com,LinkedIn,Won,Potential B2B customer
+ACC-0110,Aylin,  Mehmet  ,Ozturk,  Pixel House  ,+90 596 661 69 31,,mehmet.ozturk.lead110@mail.com,,www.pixelhouse.com,Referral,Contacted,Potential B2B customer
+ACC-0111,Rustem,  Fatma  ,Sahin,  Blue Market  ,+90 551 492 45 38,,fatma.sahin.lead111@mail.com,,www.bluemarket.com,Trade Fair,New,Potential B2B customer
+ACC-0112,Burak,  Ahmet  ,Demir,Pixel House,+90 583 884 86 18,,ahmet.demir.lead112@mail.com,,www.pixelhouse.com,Trade Fair,Won,Potential B2B customer
+ACC-0113,Merve,Murat,Ozturk,  Artemis Ltd  ,+90 553 858 85 34,,MURAT.OZTURK.LEAD113@MAIL.COM,,www.artemisltd.com,Instagram,Contacted,Potential B2B customer
+ACC-0114,Selim,  Elif  ,Koc,Pixel House,+90 564 427 56 96,,ELIF.KOC.LEAD114@MAIL.COM,,www.pixelhouse.com,Trade Fair,Negotiation,Potential B2B customer
+ACC-0115,Aylin,Ece,Sahin,Nova Tech,+90 547 957 38 73,,ECE.SAHIN.LEAD115@MAIL.COM,CONTACT115@NOVATECH.COM,www.novatech.com,Trade Fair,Won,Potential B2B customer
+ACC-0116,Aylin,Selin,  Yilmaz  ,Pixel House,+90 583 589 90 37,+90 558 160 52 29,selin.yilmaz.lead116@mail.com,contact116@pixelhouse.com,www.pixelhouse.com,LinkedIn,Won,Potential B2B customer
+ACC-0117,Burak,Selin,Yilmaz,Blue Market,+90 530 122 80 60,+90 596 584 54 60,selin.yilmaz.lead117@mail.com,,www.bluemarket.com,Instagram,Qualified,Potential B2B customer
+ACC-0118,Burak,  Selin  ,Sahin,Sun Trade,+90 516 970 48 68,,selin.sahin.lead118@mail.com,,www.suntrade.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0119,Merve,Mehmet,  Sahin  ,Blue Market,+90 583 204 96 28,+90 564 795 31 17,MEHMET.SAHIN.LEAD119@MAIL.COM,,www.bluemarket.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0120,Aylin,Ali,  Kaya  ,Pixel House,+90 541 134 25 40,+90 548 804 86 32,ali.kaya.lead120@mail.com,,www.pixelhouse.com,Trade Fair,Lost,Potential B2B customer
+ACC-0121,Burak,Ahmet,Kaya,Artemis Ltd,+90 525 219 20 25,+90 595 621 38 12,ahmet.kaya.lead121@mail.com,,www.artemisltd.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0122,Burak,Selin,Kaya,Pixel House,+90 526 201 51 18,,selin.kaya.lead122@mail.com,contact122@pixelhouse.com,www.pixelhouse.com,Trade Fair,New,Potential B2B customer
+ACC-0123,Aylin,Murat,Ozturk,Pixel House,+90 593 227 36 94,,MURAT.OZTURK.LEAD123@MAIL.COM,,www.pixelhouse.com,Referral,Won,Potential B2B customer
+ACC-0124,Selim,  Mehmet  ,  Yilmaz  ,PIXEL HOUSE,+90 530 189 81 42,,MEHMET.YILMAZ.LEAD124@MAIL.COM,contact124@pixelhouse.com,www.pixelhouse.com,Referral,Qualified,Potential B2B customer
+ACC-0125,Rustem,ELIF,  Ozturk  ,Blue Market,+90 547 774 78 66,+90 572 811 50 76,elif.ozturk.lead125@mail.com,contact125@bluemarket.com,www.bluemarket.com,Referral,Contacted,Potential B2B customer
+ACC-0126,Merve,  Selin  ,  Kaya  ,Sun Trade,+90 537 237 87 80,+90 555 384 26 89,selin.kaya.lead126@mail.com,,www.suntrade.com,Instagram,Proposal,Potential B2B customer
+ACC-0127,Selim,Ahmet,Demir,  Artemis Ltd  ,+90 536 172 90 44,,ahmet.demir.lead127@mail.com,contact127@artemisltd.com,www.artemisltd.com,Trade Fair,Won,Potential B2B customer
+ACC-0128,Merve,Deniz,Polat,Blue Market,+90 587 353 19 44,+90 524 800 80 62,DENIZ.POLAT.LEAD128@MAIL.COM,contact128@bluemarket.com,www.bluemarket.com,Instagram,Qualified,Potential B2B customer
+ACC-0129,Rustem,Can,Demir,Blue Market,+90 523 901 25 32,,can.demir.lead129@mail.com,contact129@bluemarket.com,www.bluemarket.com,Website,Negotiation,Potential B2B customer
+ACC-0130,Aylin,  Elif  ,  Polat  ,Delta Soft,+90 559 285 54 96,,elif.polat.lead130@mail.com,,www.deltasoft.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0131,Aylin,Ece,Demir,  Delta Soft  ,+90 582 853 44 16,,ece.demir.lead131@mail.com,contact131@deltasoft.com,www.deltasoft.com,Trade Fair,Negotiation,Potential B2B customer
+ACC-0132,Selim,Murat,Aydin,Blue Market,+90 564 633 39 49,,MURAT.AYDIN.LEAD132@MAIL.COM,contact132@bluemarket.com,www.bluemarket.com,Instagram,Lost,Potential B2B customer
+ACC-0133,Rustem,AYŞE,  Kaya  ,Nova Tech,+90 580 604 11 64,,ayşe.kaya.lead133@mail.com,,www.novatech.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0134,Rustem,Ahmet,Ozturk,Sun Trade,+90 564 819 78 54,+90 594 943 77 97,ahmet.ozturk.lead134@mail.com,contact134@suntrade.com,www.suntrade.com,Trade Fair,Lost,Potential B2B customer
+ACC-0135,Merve,Deniz,Sahin,Blue Market,+90 558 274 57 24,+90 596 355 79 25,DENIZ.SAHIN.LEAD135@MAIL.COM,contact135@bluemarket.com,www.bluemarket.com,Instagram,Contacted,Potential B2B customer
+ACC-0136,Selim,Ali,Polat,Artemis Ltd,+90 514 574 89 72,+90 510 730 68 52,ALI.POLAT.LEAD136@MAIL.COM,CONTACT136@ARTEMISLTD.COM,www.artemisltd.com,Instagram,Won,Potential B2B customer
+ACC-0137,Burak,Mehmet,  Koc  ,Delta Soft,+90 529 520 25 72,+90 594 356 38 70,mehmet.koc.lead137@mail.com,contact137@deltasoft.com,www.deltasoft.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0138,Burak,CAN,Kaya,Artemis Ltd,+90 555 991 35 24,+90 515 236 60 63,can.kaya.lead138@mail.com,,www.artemisltd.com,LinkedIn,Won,Potential B2B customer
+ACC-0139,Rustem,Fatma,Aydin,Sun Trade,+90 526 432 61 74,,fatma.aydin.lead139@mail.com,,www.suntrade.com,LinkedIn,New,Potential B2B customer
+ACC-0140,Aylin,  Ayşe  ,Yilmaz,  Blue Market  ,+90 553 539 86 11,+90 547 388 72 20,ayşe.yilmaz.lead140@mail.com,CONTACT140@BLUEMARKET.COM,www.bluemarket.com,Referral,Contacted,Potential B2B customer
+ACC-0141,Merve,Fatma,Celik,Nova Tech,+90 523 817 74 88,+90 585 744 91 29,FATMA.CELIK.LEAD141@MAIL.COM,,www.novatech.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0142,Burak,  Ali  ,CELIK,Blue Market,+90 558 517 77 49,,ali.celik.lead142@mail.com,,www.bluemarket.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0143,Selim,  Ali  ,Ozturk,Artemis Ltd,+90 563 352 50 16,+90 510 153 94 51,ALI.OZTURK.LEAD143@MAIL.COM,,www.artemisltd.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0144,Burak,Ece,Kaya,  Artemis Ltd  ,+90 511 799 80 26,+90 556 860 85 77,ece.kaya.lead144@mail.com,CONTACT144@ARTEMISLTD.COM,www.artemisltd.com,Referral,Proposal,Potential B2B customer
+ACC-0145,Aylin,  Ayşe  ,Kaya,Blue Market,+90 593 937 34 34,,  ayşe.kaya.lead145@mail.com  ,,www.bluemarket.com,Referral,Negotiation,Potential B2B customer
+ACC-0146,Merve,Elif,CELIK,  Sun Trade  ,+90 563 663 42 81,,elif.celik.lead146@mail.com,contact146@suntrade.com,www.suntrade.com,Email Campaign,New,Potential B2B customer
+ACC-0147,Aylin,Zeynep,KOC,Pixel House,+90 526 396 15 82,+90 598 294 60 73,zeynep.koc.lead147@mail.com,,www.pixelhouse.com,Website,Contacted,Potential B2B customer
+ACC-0148,Burak,Zeynep,Ozturk,ARTEMIS LTD,+90 530 685 37 85,,zeynep.ozturk.lead148@mail.com,,www.artemisltd.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0149,Merve,Selin,Ozturk,  Delta Soft  ,+90 538 146 78 40,+90 591 251 45 27,SELIN.OZTURK.LEAD149@MAIL.COM,contact149@deltasoft.com,www.deltasoft.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0150,Selim,Fatma,Ozturk,Nova Tech,+90 580 370 27 62,,FATMA.OZTURK.LEAD150@MAIL.COM,contact150@novatech.com,www.novatech.com,Trade Fair,Lost,Potential B2B customer
+ACC-0151,Selim,ALI,Arslan,Blue Market,+90 584 208 98 58,,ALI.ARSLAN.LEAD151@MAIL.COM,,www.bluemarket.com,Trade Fair,Won,Potential B2B customer
+ACC-0152,Merve,Ece,OZTURK,Blue Market,+90 560 259 67 39,,ece.ozturk.lead152@mail.com,,www.bluemarket.com,Email Campaign,New,Potential B2B customer
+ACC-0153,Merve,ZEYNEP,Demir,Artemis Ltd,+90 592 388 12 49,+90 532 937 60 97,  zeynep.demir.lead153@mail.com  ,CONTACT153@ARTEMISLTD.COM,www.artemisltd.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0154,Merve,Ahmet,Koc,Nova Tech,+90 558 493 12 24,,ahmet.koc.lead154@mail.com,,www.novatech.com,Website,Contacted,Potential B2B customer
+ACC-0155,Aylin,  Fatma  ,Kaya,Delta Soft,+90 523 655 53 20,+90 571 877 82 66,fatma.kaya.lead155@mail.com,contact155@deltasoft.com,www.deltasoft.com,LinkedIn,New,Potential B2B customer
+ACC-0156,Rustem,Deniz,  Celik  ,Sun Trade,+90 575 956 63 28,+90 538 124 39 64,deniz.celik.lead156@mail.com,,www.suntrade.com,Instagram,Contacted,Potential B2B customer
+ACC-0157,Rustem,Ahmet,Koc,SUN TRADE,+90 546 465 19 88,+90 556 186 15 87,AHMET.KOC.LEAD157@MAIL.COM,,www.suntrade.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0158,Merve,Elif,Polat,Blue Market,+90 546 456 23 44,,elif.polat.lead158@mail.com,,www.bluemarket.com,Trade Fair,Lost,Potential B2B customer
+ACC-0159,Merve,Ayşe,Yilmaz,Blue Market,+90 571 934 18 24,,ayşe.yilmaz.lead159@mail.com,,www.bluemarket.com,Website,Qualified,Potential B2B customer
+ACC-0160,Burak,Mehmet,Demir,Artemis Ltd,+90 591 441 27 93,,mehmet.demir.lead160@mail.com,contact160@artemisltd.com,www.artemisltd.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0161,Burak,Deniz,Sahin,Artemis Ltd,+90 538 819 21 40,+90 536 971 12 56,deniz.sahin.lead161@mail.com,contact161@artemisltd.com,www.artemisltd.com,Website,Qualified,Potential B2B customer
+ACC-0162,Aylin,Elif,Demir,DELTA SOFT,+90 538 157 27 25,,elif.demir.lead162@mail.com,CONTACT162@DELTASOFT.COM,www.deltasoft.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0163,Burak,Ali,Kaya,  Sun Trade  ,+90 556 244 20 41,+90 582 951 63 29,ali.kaya.lead163@mail.com,,www.suntrade.com,LinkedIn,Won,Potential B2B customer
+ACC-0164,Selim,Deniz,Celik,  Artemis Ltd  ,+90 524 259 17 92,+90 532 615 30 11,deniz.celik.lead164@mail.com,contact164@artemisltd.com,www.artemisltd.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0165,Merve,Selin,CELIK,Pixel House,+90 576 486 26 37,+90 517 324 60 33,selin.celik.lead165@mail.com,,www.pixelhouse.com,Referral,Lost,Potential B2B customer
+ACC-0166,Burak,Ayşe,AYDIN,Artemis Ltd,+90 592 534 34 44,+90 519 471 87 52,AYŞE.AYDIN.LEAD166@MAIL.COM,CONTACT166@ARTEMISLTD.COM,www.artemisltd.com,Referral,New,Potential B2B customer
+ACC-0167,Selim,AYŞE,SAHIN,Pixel House,+90 540 375 20 82,,ayşe.sahin.lead167@mail.com,CONTACT167@PIXELHOUSE.COM,www.pixelhouse.com,Instagram,New,Potential B2B customer
+ACC-0168,Burak,Can,Yilmaz,Delta Soft,+90 555 232 99 96,+90 562 859 74 22,can.yilmaz.lead168@mail.com,,www.deltasoft.com,Website,Negotiation,Potential B2B customer
+ACC-0169,Rustem,Murat,AYDIN,Pixel House,+90 590 195 39 37,,murat.aydin.lead169@mail.com,,www.pixelhouse.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0170,Selim,Deniz,  Polat  ,Sun Trade,+90 589 976 65 15,,deniz.polat.lead170@mail.com,,www.suntrade.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0171,Burak,  Ece  ,  Kaya  ,Blue Market,+90 549 660 21 73,+90 550 273 47 30,ECE.KAYA.LEAD171@MAIL.COM,,www.bluemarket.com,Referral,Qualified,Potential B2B customer
+ACC-0172,Burak,Elif,Kaya,Nova Tech,+90 566 765 27 25,,elif.kaya.lead172@mail.com,CONTACT172@NOVATECH.COM,www.novatech.com,Email Campaign,Lost,Potential B2B customer
+ACC-0173,Aylin,Ece,Demir,Artemis Ltd,+90 574 560 43 97,+90 592 158 41 99,  ece.demir.lead173@mail.com  ,contact173@artemisltd.com,www.artemisltd.com,Instagram,Proposal,Potential B2B customer
+ACC-0174,Merve,Mehmet,Polat,  Artemis Ltd  ,+90 569 579 92 78,,  mehmet.polat.lead174@mail.com  ,,www.artemisltd.com,Trade Fair,New,Potential B2B customer
+ACC-0175,Rustem,Murat,Koc,Blue Market,+90 599 859 70 24,+90 514 658 29 70,MURAT.KOC.LEAD175@MAIL.COM,CONTACT175@BLUEMARKET.COM,www.bluemarket.com,Referral,New,Potential B2B customer
+ACC-0176,Selim,Ece,Koc,NOVA TECH,+90 537 988 12 97,+90 542 750 32 20,ECE.KOC.LEAD176@MAIL.COM,,www.novatech.com,Instagram,Proposal,Potential B2B customer
+ACC-0177,Burak,Ayşe,Celik,Sun Trade,+90 516 194 64 53,,AYŞE.CELIK.LEAD177@MAIL.COM,CONTACT177@SUNTRADE.COM,www.suntrade.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0178,Burak,Zeynep,Ozturk,Sun Trade,+90 511 674 86 35,+90 595 692 88 28,zeynep.ozturk.lead178@mail.com,,www.suntrade.com,Trade Fair,Won,Potential B2B customer
+ACC-0179,Burak,Selin,Arslan,Nova Tech,+90 596 516 43 76,,selin.arslan.lead179@mail.com,contact179@novatech.com,www.novatech.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0180,Merve,Ahmet,Polat,NOVA TECH,+90 558 321 54 36,,ahmet.polat.lead180@mail.com,CONTACT180@NOVATECH.COM,www.novatech.com,Instagram,New,Potential B2B customer
+ACC-0181,Rustem,Can,Celik,Pixel House,+90 562 460 55 79,+90 552 216 32 68,can.celik.lead181@mail.com,,www.pixelhouse.com,Referral,Contacted,Potential B2B customer
+ACC-0182,Burak,Deniz,Koc,Artemis Ltd,+90 522 189 23 21,,deniz.koc.lead182@mail.com,contact182@artemisltd.com,www.artemisltd.com,Referral,Negotiation,Potential B2B customer
+ACC-0183,Rustem,Ayşe,Aydin,PIXEL HOUSE,+90 568 664 58 24,+90 570 227 54 69,ayşe.aydin.lead183@mail.com,,www.pixelhouse.com,Trade Fair,Lost,Potential B2B customer
+ACC-0184,Merve,Selin,Koc,Nova Tech,+90 549 958 63 96,+90 563 133 11 13,SELIN.KOC.LEAD184@MAIL.COM,,www.novatech.com,Instagram,Lost,Potential B2B customer
+ACC-0185,Aylin,Deniz,POLAT,Delta Soft,+90 534 731 92 60,,deniz.polat.lead185@mail.com,CONTACT185@DELTASOFT.COM,www.deltasoft.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0186,Aylin,SELIN,DEMIR,Artemis Ltd,+90 526 616 25 90,,selin.demir.lead186@mail.com,,www.artemisltd.com,Instagram,Lost,Potential B2B customer
+ACC-0187,Rustem,  Deniz  ,  Demir  ,Delta Soft,+90 529 128 89 79,,DENIZ.DEMIR.LEAD187@MAIL.COM,contact187@deltasoft.com,www.deltasoft.com,Trade Fair,Won,Potential B2B customer
+ACC-0188,Selim,MEHMET,Aydin,SUN TRADE,+90 534 648 41 58,,mehmet.aydin.lead188@mail.com,,www.suntrade.com,LinkedIn,Won,Potential B2B customer
+ACC-0189,Aylin,  Ali  ,  Polat  ,Nova Tech,+90 533 195 19 73,,ali.polat.lead189@mail.com,CONTACT189@NOVATECH.COM,www.novatech.com,Website,Proposal,Potential B2B customer
+ACC-0190,Burak,Ayşe,Aydin,Sun Trade,+90 530 284 48 11,,ayşe.aydin.lead190@mail.com,contact190@suntrade.com,www.suntrade.com,Website,Qualified,Potential B2B customer
+ACC-0191,Rustem,ELIF,Aydin,Pixel House,+90 534 720 13 78,+90 575 879 29 37,elif.aydin.lead191@mail.com,,www.pixelhouse.com,LinkedIn,New,Potential B2B customer
+ACC-0192,Merve,Elif,Demir,Blue Market,+90 554 825 80 93,+90 573 546 75 61,elif.demir.lead192@mail.com,CONTACT192@BLUEMARKET.COM,www.bluemarket.com,Trade Fair,Qualified,Potential B2B customer
+ACC-0193,Aylin,Murat,Kaya,Pixel House,+90 572 543 67 64,,MURAT.KAYA.LEAD193@MAIL.COM,,www.pixelhouse.com,Instagram,Negotiation,Potential B2B customer
+ACC-0194,Aylin,Ayşe,Polat,Artemis Ltd,+90 567 271 14 75,+90 562 400 87 92,ayşe.polat.lead194@mail.com,contact194@artemisltd.com,www.artemisltd.com,Website,Contacted,Potential B2B customer
+ACC-0195,Rustem,ELIF,Koc,  Blue Market  ,+90 550 225 11 50,,elif.koc.lead195@mail.com,contact195@bluemarket.com,www.bluemarket.com,Instagram,Contacted,Potential B2B customer
+ACC-0196,Merve,Deniz,  Kaya  ,Artemis Ltd,+90 587 926 95 19,,deniz.kaya.lead196@mail.com,contact196@artemisltd.com,www.artemisltd.com,Instagram,Contacted,Potential B2B customer
+ACC-0197,Selim,Fatma,  Yilmaz  ,ARTEMIS LTD,+90 551 705 59 40,,FATMA.YILMAZ.LEAD197@MAIL.COM,contact197@artemisltd.com,www.artemisltd.com,Referral,New,Potential B2B customer
+ACC-0198,Burak,  Zeynep  ,Celik,Blue Market,+90 553 760 12 18,+90 563 840 48 45,zeynep.celik.lead198@mail.com,,www.bluemarket.com,Website,Negotiation,Potential B2B customer
+ACC-0199,Selim,Elif,Aydin,Pixel House,+90 525 963 57 89,+90 538 148 11 27,ELIF.AYDIN.LEAD199@MAIL.COM,contact199@pixelhouse.com,www.pixelhouse.com,Trade Fair,Won,Potential B2B customer
+ACC-0200,Selim,Murat,Sahin,  Blue Market  ,+90 598 988 16 43,,MURAT.SAHIN.LEAD200@MAIL.COM,CONTACT200@BLUEMARKET.COM,www.bluemarket.com,Instagram,New,Potential B2B customer
+ACC-0201,Burak,Can,ARSLAN,  Sun Trade  ,+90 568 222 26 50,,can.arslan.lead201@mail.com,,www.suntrade.com,Email Campaign,Won,Potential B2B customer
+ACC-0202,Aylin,Zeynep,Kaya,Pixel House,+90 571 331 21 43,,zeynep.kaya.lead202@mail.com,,www.pixelhouse.com,LinkedIn,Won,Potential B2B customer
+ACC-0203,Burak,  Ahmet  ,  Sahin  ,SUN TRADE,+90 559 292 72 23,+90 585 879 77 75,ahmet.sahin.lead203@mail.com,contact203@suntrade.com,www.suntrade.com,Email Campaign,Won,Potential B2B customer
+ACC-0204,Merve,Mehmet,Ozturk,Nova Tech,+90 589 625 35 61,+90 545 533 31 97,mehmet.ozturk.lead204@mail.com,,www.novatech.com,Trade Fair,New,Potential B2B customer
+ACC-0205,Merve,  Mehmet  ,Aydin,Nova Tech,+90 570 777 77 67,+90 525 663 20 55,mehmet.aydin.lead205@mail.com,,www.novatech.com,Referral,Proposal,Potential B2B customer
+ACC-0206,Selim,  Deniz  ,Arslan,Nova Tech,+90 564 298 47 34,+90 586 382 77 87,deniz.arslan.lead206@mail.com,contact206@novatech.com,www.novatech.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0207,Rustem,Ayşe,SAHIN,Nova Tech,+90 545 331 89 99,,ayşe.sahin.lead207@mail.com,contact207@novatech.com,www.novatech.com,Trade Fair,Qualified,Potential B2B customer
+ACC-0208,Selim,Zeynep,Sahin,Blue Market,+90 510 196 33 74,,zeynep.sahin.lead208@mail.com,,www.bluemarket.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0209,Merve,Mehmet,Arslan,Sun Trade,+90 595 585 64 52,+90 543 178 31 96,  mehmet.arslan.lead209@mail.com  ,contact209@suntrade.com,www.suntrade.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0210,Rustem,Ali,Aydin,Blue Market,+90 539 637 74 31,,  ali.aydin.lead210@mail.com  ,contact210@bluemarket.com,www.bluemarket.com,Instagram,Proposal,Potential B2B customer
+ACC-0211,Burak,Zeynep,Arslan,Pixel House,+90 548 827 52 76,,zeynep.arslan.lead211@mail.com,contact211@pixelhouse.com,www.pixelhouse.com,Website,Qualified,Potential B2B customer
+ACC-0212,Merve,Ahmet,Ozturk,Sun Trade,+90 528 465 73 13,+90 599 541 56 36,ahmet.ozturk.lead212@mail.com,,www.suntrade.com,Email Campaign,Won,Potential B2B customer
+ACC-0213,Burak,Ayşe,Celik,SUN TRADE,+90 596 457 52 60,,ayşe.celik.lead213@mail.com,,www.suntrade.com,LinkedIn,New,Potential B2B customer
+ACC-0214,Aylin,  Ece  ,Ozturk,Sun Trade,+90 554 395 24 11,+90 597 250 69 97,ECE.OZTURK.LEAD214@MAIL.COM,contact214@suntrade.com,www.suntrade.com,Referral,Negotiation,Potential B2B customer
+ACC-0215,Rustem,Ahmet,  Demir  ,  Delta Soft  ,+90 546 945 85 25,+90 549 105 65 55,  ahmet.demir.lead215@mail.com  ,CONTACT215@DELTASOFT.COM,www.deltasoft.com,Instagram,Qualified,Potential B2B customer
+ACC-0216,Selim,  Deniz  ,Ozturk,Blue Market,+90 520 397 38 14,+90 555 354 96 91,deniz.ozturk.lead216@mail.com,,www.bluemarket.com,Website,Qualified,Potential B2B customer
+ACC-0217,Burak,Can,Polat,Delta Soft,+90 597 886 35 42,+90 580 304 48 49,CAN.POLAT.LEAD217@MAIL.COM,contact217@deltasoft.com,www.deltasoft.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0218,Burak,  Deniz  ,Demir,Artemis Ltd,+90 574 801 55 69,+90 569 530 62 69,DENIZ.DEMIR.LEAD218@MAIL.COM,,www.artemisltd.com,Referral,New,Potential B2B customer
+ACC-0219,Selim,Murat,Kaya,Blue Market,+90 589 656 82 47,+90 560 228 61 95,MURAT.KAYA.LEAD219@MAIL.COM,,www.bluemarket.com,Referral,Proposal,Potential B2B customer
+ACC-0220,Rustem,Ali,  Kaya  ,Nova Tech,+90 571 807 52 17,+90 584 790 75 16,ali.kaya.lead220@mail.com,contact220@novatech.com,www.novatech.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0221,Rustem,Fatma,Demir,DELTA SOFT,+90 518 100 29 87,,fatma.demir.lead221@mail.com,,www.deltasoft.com,Website,Proposal,Potential B2B customer
+ACC-0222,Rustem,Ali,Ozturk,ARTEMIS LTD,+90 540 961 79 43,,ali.ozturk.lead222@mail.com,contact222@artemisltd.com,www.artemisltd.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0223,Merve,AHMET,Yilmaz,Blue Market,+90 570 591 47 47,,ahmet.yilmaz.lead223@mail.com,contact223@bluemarket.com,www.bluemarket.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0224,Burak,  Selin  ,Kaya,  Artemis Ltd  ,+90 559 111 84 48,+90 593 772 89 66,SELIN.KAYA.LEAD224@MAIL.COM,contact224@artemisltd.com,www.artemisltd.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0225,Merve,Selin,Aydin,Delta Soft,+90 554 823 77 59,,SELIN.AYDIN.LEAD225@MAIL.COM,CONTACT225@DELTASOFT.COM,www.deltasoft.com,Trade Fair,Won,Potential B2B customer
+ACC-0226,Merve,Ece,Arslan,Artemis Ltd,+90 560 169 92 71,+90 570 720 94 33,ece.arslan.lead226@mail.com,,www.artemisltd.com,Trade Fair,Negotiation,Potential B2B customer
+ACC-0227,Aylin,Can,Demir,Sun Trade,+90 515 130 30 39,+90 523 611 96 70,can.demir.lead227@mail.com,contact227@suntrade.com,www.suntrade.com,Trade Fair,Lost,Potential B2B customer
+ACC-0228,Burak,Fatma,Kaya,  Blue Market  ,+90 588 356 24 14,,FATMA.KAYA.LEAD228@MAIL.COM,,www.bluemarket.com,Instagram,Negotiation,Potential B2B customer
+ACC-0229,Burak,Ahmet,Yilmaz,Blue Market,+90 535 300 42 72,+90 546 330 35 30,ahmet.yilmaz.lead229@mail.com,contact229@bluemarket.com,www.bluemarket.com,Website,Negotiation,Potential B2B customer
+ACC-0230,Merve,Ali,Kaya,Blue Market,+90 579 985 19 53,+90 592 640 73 34,ali.kaya.lead230@mail.com,contact230@bluemarket.com,www.bluemarket.com,Instagram,Qualified,Potential B2B customer
+ACC-0231,Burak,Ece,Ozturk,  Blue Market  ,+90 520 230 76 48,+90 573 336 16 86,  ece.ozturk.lead231@mail.com  ,,www.bluemarket.com,Instagram,Lost,Potential B2B customer
+ACC-0232,Merve,Can,  Koc  ,Sun Trade,+90 576 725 74 49,+90 517 659 99 24,can.koc.lead232@mail.com,contact232@suntrade.com,www.suntrade.com,Trade Fair,New,Potential B2B customer
+ACC-0233,Selim,Ali,  Arslan  ,ARTEMIS LTD,+90 552 875 94 17,+90 519 924 82 88,ali.arslan.lead233@mail.com,CONTACT233@ARTEMISLTD.COM,www.artemisltd.com,Website,Proposal,Potential B2B customer
+ACC-0234,Burak,Ece,Polat,  Nova Tech  ,+90 514 608 74 38,,ece.polat.lead234@mail.com,,www.novatech.com,LinkedIn,New,Potential B2B customer
+ACC-0235,Burak,Ali,Yilmaz,Blue Market,+90 516 496 58 99,+90 599 537 80 27,ALI.YILMAZ.LEAD235@MAIL.COM,,www.bluemarket.com,Website,Negotiation,Potential B2B customer
+ACC-0236,Rustem,ELIF,  Arslan  ,  Blue Market  ,+90 562 865 78 82,+90 511 994 41 17,ELIF.ARSLAN.LEAD236@MAIL.COM,CONTACT236@BLUEMARKET.COM,www.bluemarket.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0237,Merve,Ali,  Arslan  ,Delta Soft,+90 594 225 94 19,+90 579 310 73 55,ali.arslan.lead237@mail.com,,www.deltasoft.com,Email Campaign,Won,Potential B2B customer
+ACC-0238,Merve,Can,Arslan,Pixel House,+90 574 206 16 54,,can.arslan.lead238@mail.com,CONTACT238@PIXELHOUSE.COM,www.pixelhouse.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0239,Merve,  Deniz  ,Sahin,Delta Soft,+90 514 340 99 66,,deniz.sahin.lead239@mail.com,,www.deltasoft.com,Email Campaign,Lost,Potential B2B customer
+ACC-0240,Selim,Ali,  Celik  ,Delta Soft,+90 588 493 73 12,,  ali.celik.lead240@mail.com  ,,www.deltasoft.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0241,Selim,  Mehmet  ,Koc,Pixel House,+90 587 872 53 43,,mehmet.koc.lead241@mail.com,contact241@pixelhouse.com,www.pixelhouse.com,Referral,Proposal,Potential B2B customer
+ACC-0242,Selim,Murat,Yilmaz,Nova Tech,+90 583 836 82 76,+90 558 578 40 26,murat.yilmaz.lead242@mail.com,,www.novatech.com,Trade Fair,Qualified,Potential B2B customer
+ACC-0243,Aylin,Ayşe,Sahin,Pixel House,+90 594 356 93 87,+90 549 682 94 51,ayşe.sahin.lead243@mail.com,contact243@pixelhouse.com,www.pixelhouse.com,Website,Proposal,Potential B2B customer
+ACC-0244,Burak,Ali,Aydin,Nova Tech,+90 584 181 45 88,,ali.aydin.lead244@mail.com,,www.novatech.com,Instagram,Lost,Potential B2B customer
+ACC-0245,Merve,  Can  ,Celik,  Artemis Ltd  ,+90 524 770 14 33,,can.celik.lead245@mail.com,CONTACT245@ARTEMISLTD.COM,www.artemisltd.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0246,Selim,Ali,  Celik  ,DELTA SOFT,+90 523 179 74 66,+90 519 342 36 51,ali.celik.lead246@mail.com,contact246@deltasoft.com,www.deltasoft.com,Website,Won,Potential B2B customer
+ACC-0247,Aylin,Murat,Celik,Blue Market,+90 593 483 70 47,,MURAT.CELIK.LEAD247@MAIL.COM,CONTACT247@BLUEMARKET.COM,www.bluemarket.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0248,Selim,Ali,Kaya,Pixel House,+90 584 829 54 37,+90 584 133 94 29,ali.kaya.lead248@mail.com,CONTACT248@PIXELHOUSE.COM,www.pixelhouse.com,Website,Contacted,Potential B2B customer
+ACC-0249,Burak,Ece,  Ozturk  ,Pixel House,+90 516 721 70 94,,ece.ozturk.lead249@mail.com,,www.pixelhouse.com,Referral,Qualified,Potential B2B customer
+ACC-0250,Selim,FATMA,Arslan,Blue Market,+90 598 346 66 62,+90 555 673 74 19,fatma.arslan.lead250@mail.com,,www.bluemarket.com,Referral,Contacted,Potential B2B customer
+ACC-0251,Merve,Zeynep,KOC,Blue Market,+90 596 698 95 27,,zeynep.koc.lead251@mail.com,,www.bluemarket.com,Website,New,Potential B2B customer
+ACC-0252,Aylin,Murat,Koc,PIXEL HOUSE,+90 533 997 68 11,+90 563 369 80 70,murat.koc.lead252@mail.com,,www.pixelhouse.com,Website,Lost,Potential B2B customer
+ACC-0253,Rustem,  Murat  ,Yilmaz,Sun Trade,+90 564 462 26 61,,MURAT.YILMAZ.LEAD253@MAIL.COM,CONTACT253@SUNTRADE.COM,www.suntrade.com,Instagram,Lost,Potential B2B customer
+ACC-0254,Rustem,  Elif  ,Polat,Pixel House,+90 562 745 67 65,+90 571 816 27 33,elif.polat.lead254@mail.com,,www.pixelhouse.com,Referral,New,Potential B2B customer
+ACC-0255,Burak,Mehmet,Yilmaz,Pixel House,+90 585 386 22 39,+90 553 149 82 76,mehmet.yilmaz.lead255@mail.com,,www.pixelhouse.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0256,Merve,  Elif  ,Koc,Delta Soft,+90 536 540 76 45,,  elif.koc.lead256@mail.com  ,,www.deltasoft.com,Instagram,Contacted,Potential B2B customer
+ACC-0257,Merve,Ayşe,Celik,Delta Soft,+90 587 871 23 39,,AYŞE.CELIK.LEAD257@MAIL.COM,CONTACT257@DELTASOFT.COM,www.deltasoft.com,Referral,Lost,Potential B2B customer
+ACC-0258,Aylin,Mehmet,YILMAZ,Pixel House,+90 513 478 36 46,,mehmet.yilmaz.lead258@mail.com,,www.pixelhouse.com,Referral,Contacted,Potential B2B customer
+ACC-0259,Rustem,Zeynep,Celik,Nova Tech,+90 527 385 95 24,,zeynep.celik.lead259@mail.com,,www.novatech.com,LinkedIn,Won,Potential B2B customer
+ACC-0260,Selim,Ayşe,Arslan,Blue Market,+90 519 823 98 50,,AYŞE.ARSLAN.LEAD260@MAIL.COM,,www.bluemarket.com,Website,Won,Potential B2B customer
+ACC-0261,Rustem,Deniz,Arslan,BLUE MARKET,+90 585 485 38 96,+90 570 255 72 33,deniz.arslan.lead261@mail.com,,www.bluemarket.com,LinkedIn,Won,Potential B2B customer
+ACC-0262,Rustem,Ayşe,Ozturk,Sun Trade,+90 532 139 63 98,+90 558 746 84 40,ayşe.ozturk.lead262@mail.com,,www.suntrade.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0263,Burak,Can,Sahin,Delta Soft,+90 571 402 22 38,+90 546 529 67 51,CAN.SAHIN.LEAD263@MAIL.COM,,www.deltasoft.com,Email Campaign,New,Potential B2B customer
+ACC-0264,Selim,Mehmet,Aydin,Delta Soft,+90 571 960 72 86,+90 540 129 47 44,mehmet.aydin.lead264@mail.com,,www.deltasoft.com,Email Campaign,New,Potential B2B customer
+ACC-0265,Burak,Deniz,Arslan,Delta Soft,+90 516 374 72 38,+90 515 415 67 62,DENIZ.ARSLAN.LEAD265@MAIL.COM,,www.deltasoft.com,LinkedIn,Negotiation,Potential B2B customer
+ACC-0266,Merve,Fatma,  Kaya  ,Pixel House,+90 558 192 52 55,,fatma.kaya.lead266@mail.com,,www.pixelhouse.com,Referral,Contacted,Potential B2B customer
+ACC-0267,Aylin,Elif,Ozturk,Blue Market,+90 530 482 52 62,+90 541 113 14 12,elif.ozturk.lead267@mail.com,,www.bluemarket.com,Referral,Proposal,Potential B2B customer
+ACC-0268,Rustem,ZEYNEP,Yilmaz,BLUE MARKET,+90 544 867 25 58,,ZEYNEP.YILMAZ.LEAD268@MAIL.COM,contact268@bluemarket.com,www.bluemarket.com,Instagram,Lost,Potential B2B customer
+ACC-0269,Burak,  Ayşe  ,Kaya,Nova Tech,+90 529 197 85 60,+90 587 979 49 51,ayşe.kaya.lead269@mail.com,,www.novatech.com,Instagram,Qualified,Potential B2B customer
+ACC-0270,Aylin,Zeynep,Sahin,  Nova Tech  ,+90 562 674 45 71,+90 599 646 74 41,zeynep.sahin.lead270@mail.com,contact270@novatech.com,www.novatech.com,Instagram,Lost,Potential B2B customer
+ACC-0271,Rustem,Deniz,KAYA,Artemis Ltd,+90 582 211 92 49,+90 590 185 22 81,DENIZ.KAYA.LEAD271@MAIL.COM,contact271@artemisltd.com,www.artemisltd.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0272,Burak,Fatma,Kaya,Blue Market,+90 517 885 73 42,+90 553 954 29 14,fatma.kaya.lead272@mail.com,contact272@bluemarket.com,www.bluemarket.com,Website,Qualified,Potential B2B customer
+ACC-0273,Aylin,Selin,Sahin,PIXEL HOUSE,+90 569 825 71 75,,selin.sahin.lead273@mail.com,,www.pixelhouse.com,Website,Proposal,Potential B2B customer
+ACC-0274,Rustem,SELIN,Kaya,ARTEMIS LTD,+90 566 990 24 14,,selin.kaya.lead274@mail.com,contact274@artemisltd.com,www.artemisltd.com,LinkedIn,Won,Potential B2B customer
+ACC-0275,Rustem,Deniz,Koc,Artemis Ltd,+90 596 377 76 51,,deniz.koc.lead275@mail.com,CONTACT275@ARTEMISLTD.COM,www.artemisltd.com,Referral,Won,Potential B2B customer
+ACC-0276,Aylin,Fatma,Polat,Sun Trade,+90 527 268 77 70,+90 563 283 29 70,FATMA.POLAT.LEAD276@MAIL.COM,contact276@suntrade.com,www.suntrade.com,Instagram,Won,Potential B2B customer
+ACC-0277,Burak,Fatma,  Sahin  ,Sun Trade,+90 530 168 54 91,,FATMA.SAHIN.LEAD277@MAIL.COM,contact277@suntrade.com,www.suntrade.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0278,Selim,Can,Koc,Pixel House,+90 579 756 94 35,+90 529 205 37 45,CAN.KOC.LEAD278@MAIL.COM,,www.pixelhouse.com,Referral,New,Potential B2B customer
+ACC-0279,Burak,Mehmet,Ozturk,Pixel House,+90 545 926 88 95,,MEHMET.OZTURK.LEAD279@MAIL.COM,,www.pixelhouse.com,Website,Lost,Potential B2B customer
+ACC-0280,Aylin,  Fatma  ,SAHIN,Nova Tech,+90 551 179 16 27,,fatma.sahin.lead280@mail.com,,www.novatech.com,Instagram,Qualified,Potential B2B customer
+ACC-0281,Burak,Deniz,Kaya,Blue Market,+90 576 424 77 20,,deniz.kaya.lead281@mail.com,,www.bluemarket.com,Trade Fair,Lost,Potential B2B customer
+ACC-0282,Burak,Can,Demir,  Artemis Ltd  ,+90 565 767 54 32,+90 556 975 69 95,can.demir.lead282@mail.com,,www.artemisltd.com,Referral,Negotiation,Potential B2B customer
+ACC-0283,Rustem,FATMA,Koc,DELTA SOFT,+90 585 417 52 22,,fatma.koc.lead283@mail.com,CONTACT283@DELTASOFT.COM,www.deltasoft.com,Instagram,New,Potential B2B customer
+ACC-0284,Rustem,Ahmet,Celik,Sun Trade,+90 517 685 13 70,,ahmet.celik.lead284@mail.com,contact284@suntrade.com,www.suntrade.com,Trade Fair,Lost,Potential B2B customer
+ACC-0285,Aylin,Deniz,KAYA,Nova Tech,+90 526 184 63 25,+90 591 827 17 50,DENIZ.KAYA.LEAD285@MAIL.COM,contact285@novatech.com,www.novatech.com,LinkedIn,Won,Potential B2B customer
+ACC-0286,Selim,Ece,YILMAZ,Delta Soft,+90 556 628 11 95,+90 595 785 17 18,ECE.YILMAZ.LEAD286@MAIL.COM,,www.deltasoft.com,Referral,Contacted,Potential B2B customer
+ACC-0287,Rustem,Selin,CELIK,Nova Tech,+90 532 750 10 49,+90 554 220 53 69,selin.celik.lead287@mail.com,contact287@novatech.com,www.novatech.com,Email Campaign,New,Potential B2B customer
+ACC-0288,Merve,Ayşe,Kaya,  Blue Market  ,+90 531 907 11 37,,ayşe.kaya.lead288@mail.com,,www.bluemarket.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0289,Merve,Ahmet,Sahin,Sun Trade,+90 545 243 82 50,+90 534 379 35 32,ahmet.sahin.lead289@mail.com,,www.suntrade.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0290,Selim,Ayşe,Aydin,Delta Soft,+90 597 951 31 14,,ayşe.aydin.lead290@mail.com,,www.deltasoft.com,Referral,Contacted,Potential B2B customer
+ACC-0291,Selim,SELIN,Koc,Delta Soft,+90 544 192 75 36,+90 569 367 14 24,selin.koc.lead291@mail.com,,www.deltasoft.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0292,Burak,Zeynep,Polat,Delta Soft,+90 523 744 55 11,+90 570 442 53 92,zeynep.polat.lead292@mail.com,contact292@deltasoft.com,www.deltasoft.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0293,Aylin,Deniz,Demir,Nova Tech,+90 561 584 41 42,,deniz.demir.lead293@mail.com,contact293@novatech.com,www.novatech.com,Website,Contacted,Potential B2B customer
+ACC-0294,Selim,Deniz,Kaya,  Artemis Ltd  ,+90 575 270 48 86,,deniz.kaya.lead294@mail.com,contact294@artemisltd.com,www.artemisltd.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0295,Selim,Ahmet,  Arslan  ,Nova Tech,+90 560 269 68 10,,AHMET.ARSLAN.LEAD295@MAIL.COM,,www.novatech.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0296,Merve,Can,Kaya,BLUE MARKET,+90 581 965 57 10,+90 554 202 70 80,can.kaya.lead296@mail.com,contact296@bluemarket.com,www.bluemarket.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0297,Selim,Zeynep,  Sahin  ,Nova Tech,+90 546 939 96 64,,zeynep.sahin.lead297@mail.com,contact297@novatech.com,www.novatech.com,Referral,New,Potential B2B customer
+ACC-0298,Selim,Fatma,Polat,  Blue Market  ,+90 586 869 60 19,,FATMA.POLAT.LEAD298@MAIL.COM,,www.bluemarket.com,LinkedIn,New,Potential B2B customer
+ACC-0299,Burak,Fatma,Celik,Artemis Ltd,+90 559 791 71 14,+90 563 283 30 60,fatma.celik.lead299@mail.com,contact299@artemisltd.com,www.artemisltd.com,Website,Qualified,Potential B2B customer
+ACC-0300,Rustem,AHMET,  Kaya  ,Sun Trade,+90 597 565 11 72,,ahmet.kaya.lead300@mail.com,,www.suntrade.com,Website,Qualified,Potential B2B customer
+ACC-0301,Aylin,Murat,Celik,Sun Trade,+90 570 829 52 78,,MURAT.CELIK.LEAD301@MAIL.COM,,www.suntrade.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0302,Rustem,Deniz,Koc,Sun Trade,+90 535 627 88 68,+90 569 388 15 25,deniz.koc.lead302@mail.com,CONTACT302@SUNTRADE.COM,www.suntrade.com,Referral,Won,Potential B2B customer
+ACC-0303,Selim,Elif,  Celik  ,Artemis Ltd,+90 547 465 63 12,+90 548 751 14 86,ELIF.CELIK.LEAD303@MAIL.COM,contact303@artemisltd.com,www.artemisltd.com,Referral,Won,Potential B2B customer
+ACC-0304,Rustem,  Murat  ,  Sahin  ,Blue Market,+90 545 453 68 98,,murat.sahin.lead304@mail.com,contact304@bluemarket.com,www.bluemarket.com,Referral,Negotiation,Potential B2B customer
+ACC-0305,Rustem,  Zeynep  ,Yilmaz,Nova Tech,+90 522 491 75 20,+90 591 867 48 64,zeynep.yilmaz.lead305@mail.com,contact305@novatech.com,www.novatech.com,Trade Fair,Won,Potential B2B customer
+ACC-0306,Merve,Selin,Kaya,Artemis Ltd,+90 579 974 41 98,,selin.kaya.lead306@mail.com,,www.artemisltd.com,Email Campaign,Qualified,Potential B2B customer
+ACC-0307,Rustem,Selin,Demir,Delta Soft,+90 544 105 62 36,+90 563 772 26 45,SELIN.DEMIR.LEAD307@MAIL.COM,,www.deltasoft.com,Referral,Lost,Potential B2B customer
+ACC-0308,Rustem,Ahmet,ARSLAN,Nova Tech,+90 587 946 68 85,+90 586 436 79 59,ahmet.arslan.lead308@mail.com,contact308@novatech.com,www.novatech.com,Instagram,Qualified,Potential B2B customer
+ACC-0309,Burak,ZEYNEP,Demir,Artemis Ltd,+90 542 512 14 94,,zeynep.demir.lead309@mail.com,,www.artemisltd.com,Referral,Qualified,Potential B2B customer
+ACC-0310,Selim,Ayşe,Sahin,Sun Trade,+90 569 130 29 89,,ayşe.sahin.lead310@mail.com,,www.suntrade.com,Email Campaign,Lost,Potential B2B customer
+ACC-0311,Merve,Ali,Celik,Pixel House,+90 525 199 60 37,+90 524 684 47 32,ali.celik.lead311@mail.com,,www.pixelhouse.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0312,Burak,Deniz,Koc,Delta Soft,+90 590 208 95 97,,deniz.koc.lead312@mail.com,,www.deltasoft.com,Referral,Negotiation,Potential B2B customer
+ACC-0313,Burak,Murat,Sahin,ARTEMIS LTD,+90 532 509 46 10,,murat.sahin.lead313@mail.com,CONTACT313@ARTEMISLTD.COM,www.artemisltd.com,Website,Proposal,Potential B2B customer
+ACC-0314,Rustem,Ece,  Koc  ,Artemis Ltd,+90 520 713 83 62,,ece.koc.lead314@mail.com,contact314@artemisltd.com,www.artemisltd.com,Email Campaign,Won,Potential B2B customer
+ACC-0315,Burak,Ayşe,Arslan,Nova Tech,+90 530 568 57 40,+90 535 430 26 47,AYŞE.ARSLAN.LEAD315@MAIL.COM,,www.novatech.com,Website,Contacted,Potential B2B customer
+ACC-0316,Aylin,Ece,AYDIN,ARTEMIS LTD,+90 569 612 92 24,,ece.aydin.lead316@mail.com,contact316@artemisltd.com,www.artemisltd.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0317,Burak,Selin,Kaya,Nova Tech,+90 519 901 63 43,,selin.kaya.lead317@mail.com,,www.novatech.com,Referral,Won,Potential B2B customer
+ACC-0318,Rustem,Deniz,Yilmaz,Artemis Ltd,+90 515 472 61 75,,deniz.yilmaz.lead318@mail.com,CONTACT318@ARTEMISLTD.COM,www.artemisltd.com,Instagram,Lost,Potential B2B customer
+ACC-0319,Burak,Ece,  Kaya  ,SUN TRADE,+90 571 315 43 22,+90 598 175 68 72,ece.kaya.lead319@mail.com,contact319@suntrade.com,www.suntrade.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0320,Selim,Elif,Aydin,  Sun Trade  ,+90 546 126 38 57,,elif.aydin.lead320@mail.com,contact320@suntrade.com,www.suntrade.com,Referral,Won,Potential B2B customer
+ACC-0321,Selim,CAN,Aydin,  Sun Trade  ,+90 587 399 59 42,,CAN.AYDIN.LEAD321@MAIL.COM,CONTACT321@SUNTRADE.COM,www.suntrade.com,Instagram,Contacted,Potential B2B customer
+ACC-0322,Aylin,Ece,Yilmaz,Delta Soft,+90 589 274 54 92,+90 574 421 76 57,ece.yilmaz.lead322@mail.com,contact322@deltasoft.com,www.deltasoft.com,Referral,Proposal,Potential B2B customer
+ACC-0323,Rustem,Mehmet,Aydin,ARTEMIS LTD,+90 545 723 25 93,+90 573 570 82 91,mehmet.aydin.lead323@mail.com,contact323@artemisltd.com,www.artemisltd.com,Referral,Contacted,Potential B2B customer
+ACC-0324,Burak,Selin,Sahin,Delta Soft,+90 544 666 78 78,,  selin.sahin.lead324@mail.com  ,,www.deltasoft.com,Referral,Negotiation,Potential B2B customer
+ACC-0325,Merve,Fatma,Sahin,DELTA SOFT,+90 598 834 68 32,+90 587 372 80 45,FATMA.SAHIN.LEAD325@MAIL.COM,,www.deltasoft.com,LinkedIn,Won,Potential B2B customer
+ACC-0326,Merve,AYŞE,Demir,Pixel House,+90 569 200 78 16,+90 591 174 35 71,AYŞE.DEMIR.LEAD326@MAIL.COM,CONTACT326@PIXELHOUSE.COM,www.pixelhouse.com,LinkedIn,New,Potential B2B customer
+ACC-0327,Selim,Deniz,Polat,Blue Market,+90 524 837 66 92,+90 591 729 68 10,DENIZ.POLAT.LEAD327@MAIL.COM,,www.bluemarket.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0328,Aylin,Can,Aydin,Sun Trade,+90 543 988 78 41,+90 596 674 74 49,can.aydin.lead328@mail.com,contact328@suntrade.com,www.suntrade.com,LinkedIn,Proposal,Potential B2B customer
+ACC-0329,Merve,ALI,Arslan,Pixel House,+90 522 982 66 53,,ali.arslan.lead329@mail.com,contact329@pixelhouse.com,www.pixelhouse.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0330,Aylin,Can,Ozturk,Delta Soft,+90 536 684 96 29,+90 534 884 60 31,can.ozturk.lead330@mail.com,CONTACT330@DELTASOFT.COM,www.deltasoft.com,Referral,Proposal,Potential B2B customer
+ACC-0331,Selim,AHMET,Polat,Artemis Ltd,+90 548 479 28 49,+90 555 949 50 67,ahmet.polat.lead331@mail.com,,www.artemisltd.com,Email Campaign,New,Potential B2B customer
+ACC-0332,Merve,Murat,Yilmaz,  Artemis Ltd  ,+90 535 313 94 42,+90 557 124 51 64,murat.yilmaz.lead332@mail.com,contact332@artemisltd.com,www.artemisltd.com,LinkedIn,Lost,Potential B2B customer
+ACC-0333,Selim,  Fatma  ,POLAT,Pixel House,+90 571 838 85 70,,fatma.polat.lead333@mail.com,contact333@pixelhouse.com,www.pixelhouse.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0334,Rustem,  Fatma  ,Celik,Pixel House,+90 557 548 46 24,+90 519 432 62 29,fatma.celik.lead334@mail.com,,www.pixelhouse.com,Referral,Contacted,Potential B2B customer
+ACC-0335,Aylin,Deniz,Kaya,Artemis Ltd,+90 547 806 12 27,,DENIZ.KAYA.LEAD335@MAIL.COM,contact335@artemisltd.com,www.artemisltd.com,Trade Fair,Won,Potential B2B customer
+ACC-0336,Merve,ELIF,Arslan,Artemis Ltd,+90 552 303 96 43,+90 512 243 25 92,elif.arslan.lead336@mail.com,,www.artemisltd.com,Email Campaign,Lost,Potential B2B customer
+ACC-0337,Aylin,Ali,Ozturk,Nova Tech,+90 574 994 51 78,+90 583 441 91 18,ali.ozturk.lead337@mail.com,,www.novatech.com,Referral,Lost,Potential B2B customer
+ACC-0338,Rustem,Ayşe,Ozturk,Blue Market,+90 534 869 19 97,+90 545 576 67 29,  ayşe.ozturk.lead338@mail.com  ,,www.bluemarket.com,Trade Fair,Negotiation,Potential B2B customer
+ACC-0339,Burak,Elif,Aydin,Pixel House,+90 589 948 59 12,+90 551 537 29 43,elif.aydin.lead339@mail.com,,www.pixelhouse.com,Instagram,Negotiation,Potential B2B customer
+ACC-0340,Aylin,ZEYNEP,Sahin,PIXEL HOUSE,+90 533 203 13 78,,zeynep.sahin.lead340@mail.com,,www.pixelhouse.com,Referral,Qualified,Potential B2B customer
+ACC-0341,Merve,AYŞE,ARSLAN,Delta Soft,+90 539 322 55 13,+90 566 226 58 13,ayşe.arslan.lead341@mail.com,,www.deltasoft.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0342,Merve,MURAT,Yilmaz,Artemis Ltd,+90 521 279 74 84,,MURAT.YILMAZ.LEAD342@MAIL.COM,contact342@artemisltd.com,www.artemisltd.com,Website,Proposal,Potential B2B customer
+ACC-0343,Selim,Selin,POLAT,  Delta Soft  ,+90 574 468 71 42,,  selin.polat.lead343@mail.com  ,,www.deltasoft.com,Email Campaign,Lost,Potential B2B customer
+ACC-0344,Selim,Murat,Koc,Nova Tech,+90 548 334 99 20,,murat.koc.lead344@mail.com,CONTACT344@NOVATECH.COM,www.novatech.com,Instagram,Won,Potential B2B customer
+ACC-0345,Merve,AHMET,  Arslan  ,Nova Tech,+90 527 811 70 14,+90 536 987 94 47,ahmet.arslan.lead345@mail.com,CONTACT345@NOVATECH.COM,www.novatech.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0346,Merve,Deniz,Demir,Sun Trade,+90 513 609 36 49,+90 557 961 43 89,deniz.demir.lead346@mail.com,,www.suntrade.com,Instagram,New,Potential B2B customer
+ACC-0347,Burak,  Zeynep  ,Yilmaz,Sun Trade,+90 577 273 30 22,+90 538 194 63 18,ZEYNEP.YILMAZ.LEAD347@MAIL.COM,,www.suntrade.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0348,Aylin,Murat,  Ozturk  ,Artemis Ltd,+90 542 231 51 94,,murat.ozturk.lead348@mail.com,CONTACT348@ARTEMISLTD.COM,www.artemisltd.com,Email Campaign,Won,Potential B2B customer
+ACC-0349,Merve,Ece,  Sahin  ,Blue Market,+90 522 834 61 46,,ECE.SAHIN.LEAD349@MAIL.COM,CONTACT349@BLUEMARKET.COM,www.bluemarket.com,LinkedIn,Won,Potential B2B customer
+ACC-0350,Burak,Ahmet,Celik,Delta Soft,+90 544 878 26 51,+90 594 248 84 14,ahmet.celik.lead350@mail.com,,www.deltasoft.com,Trade Fair,New,Potential B2B customer
+ACC-0351,Rustem,Fatma,DEMIR,Nova Tech,+90 511 685 71 71,,FATMA.DEMIR.LEAD351@MAIL.COM,contact351@novatech.com,www.novatech.com,Referral,Proposal,Potential B2B customer
+ACC-0352,Aylin,Zeynep,Sahin,Artemis Ltd,+90 575 445 53 33,+90 572 890 80 68,zeynep.sahin.lead352@mail.com,,www.artemisltd.com,Instagram,Lost,Potential B2B customer
+ACC-0353,Burak,Deniz,Celik,  Nova Tech  ,+90 539 568 24 25,,DENIZ.CELIK.LEAD353@MAIL.COM,,www.novatech.com,Instagram,Qualified,Potential B2B customer
+ACC-0354,Rustem,Zeynep,Koc,PIXEL HOUSE,+90 575 299 28 97,+90 512 303 55 77,zeynep.koc.lead354@mail.com,,www.pixelhouse.com,Referral,Negotiation,Potential B2B customer
+ACC-0355,Aylin,ALI,OZTURK,Delta Soft,+90 591 749 89 38,,ali.ozturk.lead355@mail.com,,www.deltasoft.com,Referral,Proposal,Potential B2B customer
+ACC-0356,Burak,Fatma,Celik,Nova Tech,+90 570 579 51 27,,FATMA.CELIK.LEAD356@MAIL.COM,,www.novatech.com,Website,Qualified,Potential B2B customer
+ACC-0357,Aylin,Selin,  Ozturk  ,Sun Trade,+90 527 247 71 30,,selin.ozturk.lead357@mail.com,CONTACT357@SUNTRADE.COM,www.suntrade.com,LinkedIn,Won,Potential B2B customer
+ACC-0358,Selim,  Murat  ,Koc,Pixel House,+90 561 226 84 96,+90 566 245 96 45,  murat.koc.lead358@mail.com  ,CONTACT358@PIXELHOUSE.COM,www.pixelhouse.com,Instagram,Negotiation,Potential B2B customer
+ACC-0359,Burak,Ayşe,  Polat  ,Artemis Ltd,+90 568 257 19 53,,  ayşe.polat.lead359@mail.com  ,contact359@artemisltd.com,www.artemisltd.com,Instagram,New,Potential B2B customer
+ACC-0360,Burak,Ahmet,AYDIN,  Artemis Ltd  ,+90 587 713 56 40,,ahmet.aydin.lead360@mail.com,,www.artemisltd.com,Email Campaign,Proposal,Potential B2B customer
+ACC-0361,Selim,Ali,Kaya,Delta Soft,+90 595 956 42 55,+90 522 830 72 41,ali.kaya.lead361@mail.com,,www.deltasoft.com,Email Campaign,Won,Potential B2B customer
+ACC-0362,Aylin,Can,Kaya,Sun Trade,+90 595 491 15 87,+90 592 200 83 22,CAN.KAYA.LEAD362@MAIL.COM,contact362@suntrade.com,www.suntrade.com,Instagram,Negotiation,Potential B2B customer
+ACC-0363,Rustem,Ahmet,Polat,Artemis Ltd,+90 583 984 76 14,,ahmet.polat.lead363@mail.com,,www.artemisltd.com,Email Campaign,Won,Potential B2B customer
+ACC-0364,Selim,  Ali  ,Sahin,Pixel House,+90 568 969 42 55,,ali.sahin.lead364@mail.com,CONTACT364@PIXELHOUSE.COM,www.pixelhouse.com,Email Campaign,Lost,Potential B2B customer
+ACC-0365,Selim,Ali,ARSLAN,Artemis Ltd,+90 580 763 51 61,,ali.arslan.lead365@mail.com,,www.artemisltd.com,Email Campaign,Lost,Potential B2B customer
+ACC-0366,Merve,Ayşe,Arslan,Delta Soft,+90 521 754 61 50,,ayşe.arslan.lead366@mail.com,,www.deltasoft.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0367,Burak,Selin,Aydin,Delta Soft,+90 551 116 24 34,,selin.aydin.lead367@mail.com,contact367@deltasoft.com,www.deltasoft.com,Referral,Negotiation,Potential B2B customer
+ACC-0368,Merve,  Mehmet  ,Koc,Pixel House,+90 594 514 43 28,,mehmet.koc.lead368@mail.com,,www.pixelhouse.com,Email Campaign,New,Potential B2B customer
+ACC-0369,Rustem,Selin,CELIK,Pixel House,+90 541 661 29 95,,SELIN.CELIK.LEAD369@MAIL.COM,,www.pixelhouse.com,LinkedIn,Lost,Potential B2B customer
+ACC-0370,Burak,Selin,SAHIN,  Blue Market  ,+90 541 121 88 71,,selin.sahin.lead370@mail.com,,www.bluemarket.com,Referral,Contacted,Potential B2B customer
+ACC-0371,Aylin,Murat,Demir,Pixel House,+90 556 922 43 65,+90 540 427 79 55,MURAT.DEMIR.LEAD371@MAIL.COM,,www.pixelhouse.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0372,Rustem,Elif,Sahin,Pixel House,+90 570 648 50 23,,elif.sahin.lead372@mail.com,,www.pixelhouse.com,Trade Fair,Won,Potential B2B customer
+ACC-0373,Aylin,Ahmet,Ozturk,Blue Market,+90 585 546 18 31,+90 567 672 93 17,ahmet.ozturk.lead373@mail.com,contact373@bluemarket.com,www.bluemarket.com,Website,Won,Potential B2B customer
+ACC-0374,Selim,Elif,Kaya,Sun Trade,+90 572 541 27 60,+90 567 417 78 99,elif.kaya.lead374@mail.com,contact374@suntrade.com,www.suntrade.com,Referral,Proposal,Potential B2B customer
+ACC-0375,Rustem,Mehmet,  Ozturk  ,Sun Trade,+90 585 222 19 88,+90 562 847 30 34,MEHMET.OZTURK.LEAD375@MAIL.COM,,www.suntrade.com,Referral,Lost,Potential B2B customer
+ACC-0376,Burak,Mehmet,Demir,  Nova Tech  ,+90 561 687 99 97,+90 562 490 99 70,MEHMET.DEMIR.LEAD376@MAIL.COM,,www.novatech.com,Instagram,Contacted,Potential B2B customer
+ACC-0377,Burak,Ayşe,Celik,DELTA SOFT,+90 561 305 39 54,,ayşe.celik.lead377@mail.com,contact377@deltasoft.com,www.deltasoft.com,Referral,Qualified,Potential B2B customer
+ACC-0378,Rustem,Ali,  Polat  ,  Nova Tech  ,+90 577 112 10 51,+90 513 919 82 82,  ali.polat.lead378@mail.com  ,,www.novatech.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0379,Merve,Ahmet,  Polat  ,Artemis Ltd,+90 529 714 57 83,+90 566 823 32 74,AHMET.POLAT.LEAD379@MAIL.COM,contact379@artemisltd.com,www.artemisltd.com,Website,Negotiation,Potential B2B customer
+ACC-0380,Selim,Ali,  Ozturk  ,Nova Tech,+90 585 630 31 22,+90 587 258 88 53,ali.ozturk.lead380@mail.com,,www.novatech.com,Referral,Lost,Potential B2B customer
+ACC-0381,Rustem,Murat,Aydin,NOVA TECH,+90 572 292 61 15,+90 571 930 94 85,MURAT.AYDIN.LEAD381@MAIL.COM,,www.novatech.com,Referral,New,Potential B2B customer
+ACC-0382,Aylin,Ahmet,Arslan,Pixel House,+90 546 428 27 67,,AHMET.ARSLAN.LEAD382@MAIL.COM,,www.pixelhouse.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0383,Rustem,Murat,Koc,Artemis Ltd,+90 559 413 73 46,,murat.koc.lead383@mail.com,CONTACT383@ARTEMISLTD.COM,www.artemisltd.com,Website,Qualified,Potential B2B customer
+ACC-0384,Selim,Ece,Polat,  Pixel House  ,+90 548 494 34 55,,ECE.POLAT.LEAD384@MAIL.COM,contact384@pixelhouse.com,www.pixelhouse.com,Email Campaign,Won,Potential B2B customer
+ACC-0385,Rustem,Deniz,  Ozturk  ,Blue Market,+90 538 829 50 19,,deniz.ozturk.lead385@mail.com,,www.bluemarket.com,Referral,New,Potential B2B customer
+ACC-0386,Rustem,Ali,  Koc  ,BLUE MARKET,+90 552 281 59 39,+90 561 145 29 28,ali.koc.lead386@mail.com,,www.bluemarket.com,Instagram,Proposal,Potential B2B customer
+ACC-0387,Selim,AHMET,Polat,Sun Trade,+90 544 519 98 11,+90 562 486 45 34,ahmet.polat.lead387@mail.com,,www.suntrade.com,Referral,New,Potential B2B customer
+ACC-0388,Burak,  Ahmet  ,Koc,  Nova Tech  ,+90 524 218 30 72,+90 578 435 31 42,ahmet.koc.lead388@mail.com,,www.novatech.com,Trade Fair,Proposal,Potential B2B customer
+ACC-0389,Aylin,Can,Ozturk,Delta Soft,+90 535 188 81 73,+90 576 136 70 71,CAN.OZTURK.LEAD389@MAIL.COM,CONTACT389@DELTASOFT.COM,www.deltasoft.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0390,Selim,Ayşe,  Kaya  ,Blue Market,+90 515 778 74 34,,  ayşe.kaya.lead390@mail.com  ,CONTACT390@BLUEMARKET.COM,www.bluemarket.com,LinkedIn,Qualified,Potential B2B customer
+ACC-0391,Rustem,Can,DEMIR,Delta Soft,+90 518 330 33 90,+90 594 838 66 13,  can.demir.lead391@mail.com  ,CONTACT391@DELTASOFT.COM,www.deltasoft.com,Referral,Qualified,Potential B2B customer
+ACC-0392,Selim,  Deniz  ,Demir,Blue Market,+90 578 117 89 31,,  deniz.demir.lead392@mail.com  ,,www.bluemarket.com,Website,Won,Potential B2B customer
+ACC-0393,Rustem,Fatma,Yilmaz,  Artemis Ltd  ,+90 538 880 90 14,,FATMA.YILMAZ.LEAD393@MAIL.COM,contact393@artemisltd.com,www.artemisltd.com,Email Campaign,Negotiation,Potential B2B customer
+ACC-0394,Burak,Ahmet,Koc,Delta Soft,+90 588 356 54 91,+90 529 565 78 56,AHMET.KOC.LEAD394@MAIL.COM,,www.deltasoft.com,Instagram,Won,Potential B2B customer
+ACC-0395,Merve,Selin,  Demir  ,Artemis Ltd,+90 528 143 68 62,,selin.demir.lead395@mail.com,,www.artemisltd.com,Email Campaign,Contacted,Potential B2B customer
+ACC-0396,Burak,Ahmet,Arslan,Blue Market,+90 559 574 56 53,+90 561 236 77 36,AHMET.ARSLAN.LEAD396@MAIL.COM,,www.bluemarket.com,Trade Fair,Contacted,Potential B2B customer
+ACC-0397,Aylin,Ece,Sahin,Sun Trade,+90 562 483 92 49,+90 528 581 23 79,ece.sahin.lead397@mail.com,,www.suntrade.com,Referral,Proposal,Potential B2B customer
+ACC-0398,Merve,Ali,Sahin,Blue Market,+90 566 124 98 36,+90 595 276 44 97,ali.sahin.lead398@mail.com,contact398@bluemarket.com,www.bluemarket.com,LinkedIn,Contacted,Potential B2B customer
+ACC-0399,Merve,Murat,Arslan,Artemis Ltd,+90 588 643 90 14,,  murat.arslan.lead399@mail.com  ,CONTACT399@ARTEMISLTD.COM,www.artemisltd.com,Website,Qualified,Potential B2B customer
+ACC-0400,Merve,Ayşe,Arslan,  Delta Soft  ,+90 589 423 84 67,+90 532 396 48 22,ayşe.arslan.lead400@mail.com,contact400@deltasoft.com,www.deltasoft.com,LinkedIn,Proposal,Potential B2B customer

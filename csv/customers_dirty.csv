@@ -1,0 +1,301 @@
+﻿Customer_Id,First_Name,Last_Name,Company,City,Country,Phone_1,Phone_2,Email,Subscription_Date,Website
+CUST-0001,AHMET,  Kaya  ,  Nova Tech  ,Ankara,  Turkey  ,+90 537 338 74 87,+90 535 833 93 99,ahmet.kaya1@example.com,2023-10-09,www.novatech.com
+CUST-0002,Ece,Celik,NOVA TECH,  Adana  ,  Netherlands  ,+90 554 718 43 15,,ece.celik2@example.com,2023-06-13,www.novatech.com
+CUST-0003,Murat,Kaya,Pixel House,Bursa,Turkey,+90 547 181 39 22,+90 568 750 56 30,murat.kaya3@example.com,2023-10-28,www.pixelhouse.com
+CUST-0004,CAN,Kaya,PIXEL HOUSE,Konya,United Kingdom,+90 538 801 51 17,+90 514 924 50 61,can.kaya4@example.com,2024-10-12,www.pixelhouse.com
+CUST-0005,Ece,Arslan,Blue Market,Izmir,Germany,+90 578 369 84 64,,ece.arslan5@example.com,2024-11-02,www.bluemarket.com
+CUST-0006,Mehmet,Ozturk,ARTEMIS LTD,Izmir,Netherlands,+90 559 490 86 69,+90 580 981 11 97,,2023-04-04,www.artemisltd.com
+CUST-0007,  Deniz  ,Celik,Sun Trade,Antalya,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 523 991 90 48,,deniz.celik7@example.com,2023-12-15,www.suntrade.com
+CUST-0008,Elif,Demir,Pixel House,Ankara,British Indian Ocean Territory (Chagos Archipelago),+90 540 159 40 82,,ELIF.DEMIR8@EXAMPLE.COM,2024-06-27,www.pixelhouse.com
+CUST-0009,  Zeynep  ,Kaya,Pixel House,Antalya,Azerbaijan,+90 537 652 98 35,,zeynep.kaya9@example.com,2023-05-09,www.pixelhouse.com
+CUST-0010,  Elif  ,AYDIN,Pixel House,Bursa,  Turkey  ,+90 590 160 39 18,,  elif.aydin10@example.com  ,2024-04-07,www.pixelhouse.com
+CUST-0011,FATMA,  Celik  ,Sun Trade,SAMSUN,Netherlands,+90 534 196 22 94,+90 564 520 69 16,fatma.celik11@example.com,2024-05-12,www.suntrade.com
+CUST-0012,Ayşe,  Yilmaz  ,ARTEMIS LTD,  Samsun  ,Germany,+90 541 995 19 66,,  ayşe.yilmaz12@example.com  ,2023-12-14,www.artemisltd.com
+CUST-0013,Ahmet,Ozturk,NOVA TECH,Samsun,British Indian Ocean Territory (Chagos Archipelago),+90 517 268 58 10,,ahmet.ozturk13@example.com,31/31/2024,www.novatech.com
+CUST-0014,Zeynep,Celik,ARTEMIS LTD,Bursa,Azerbaijan,+90 517 865 50 17,+90 571 614 77 30,ZEYNEP.CELIK14@EXAMPLE.COM,2024-07-23,www.artemisltd.com
+CUST-0015,Deniz,Kaya,BLUE MARKET,Ankara,AZERBAIJAN,+90 586 140 89 20,+90 584 678 76 50,deniz.kaya15@example.com,2023-03-12,www.bluemarket.com
+CUST-0016,Selin,Arslan,Blue Market,Adana,  Turkey  ,+90 589 676 22 19,+90 574 371 26 54,selin.arslan16@example.com,2023-09-29,www.bluemarket.com
+CUST-0017,Elif,Celik,Blue Market,Istanbul,Azerbaijan,+90 594 206 27 43,+90 523 860 80 29,elif.celik17@example.com,2024-03-24,www.bluemarket.com
+CUST-0018,Selin,Arslan,Blue Market,  Istanbul  ,Netherlands,+90 515 103 52 26,+90 543 265 66 80,selin.arslan18@example.com,2024-10-11,www.bluemarket.com
+CUST-0019,Ayşe,Kaya,Sun Trade,Izmir,Turkey,+90 515 466 36 97,+90 523 462 81 62,ayşe.kaya19@example.com,2023-06-02,www.suntrade.com
+CUST-0020,  Fatma  ,Demir,Blue Market,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 541 373 30 99,+90 514 979 70 38,FATMA.DEMIR20@EXAMPLE.COM,2024-02-27,www.bluemarket.com
+CUST-0021,   ,Arslan,Delta Soft,Antalya,British Indian Ocean Territory (Chagos Archipelago),+90 592 621 61 96,,zeynep.arslan21@example.com,2023-08-22,www.deltasoft.com
+CUST-0022,Ayşe,Celik,  Blue Market  ,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 587 623 24 59,,AYŞE.CELIK22@EXAMPLE.COM,2024-08-17,www.bluemarket.com
+CUST-0023,Ali,Koc,Nova Tech,Bursa,Turkey,+90 552 738 50 94,,ali.koc23@example.com,2024-06-16,www.novatech.com
+CUST-0024,Can,Koc,DELTA SOFT,Konya,Germany,+90 548 515 80 10,+90 536 540 84 87,can.koc24@example.com,2024-02-17,www.deltasoft.com
+CUST-0025,Zeynep,Sahin,Pixel House,Ankara,United Kingdom,+90 552 195 40 96,+90 535 250 13 15,ZEYNEP.SAHIN25@EXAMPLE.COM,2024-04-29,www.pixelhouse.com
+CUST-0026,Zeynep,Polat,NOVA TECH,Konya,  Germany  ,+90 598 105 23 64,+90 599 630 69 16,zeynep.polat26@example.com,2024-04-11,www.novatech.com
+CUST-0027,Ayşe,Aydin,Blue Market,Samsun,United Kingdom,+90 564 950 80 67,,ayşe.aydin27@example.com,2024-04-20,www.bluemarket.com
+CUST-0028,Can,Sahin,Sun Trade,Antalya,United Kingdom,+90 544 443 50 79,+90 529 336 59 98,CAN.SAHIN28@EXAMPLE.COM,2023-10-11,www.suntrade.com
+CUST-0029,Fatma,Kaya,  Artemis Ltd  ,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 599 120 83 58,+90 555 405 59 63,fatma.kaya29@example.com,2024-02-22,www.artemisltd.com
+CUST-0030,Ece,Sahin,Artemis Ltd,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 526 737 78 13,,ece.sahin30@example.com,2023-08-13,www.artemisltd.com
+CUST-0031,AYŞE,Koc,Blue Market,Samsun,British Indian Ocean Territory (Chagos Archipelago),+90 545 870 63 42,,ayşe.koc31@example.com,2024-04-17,www.bluemarket.com
+CUST-0032,  Ali  ,Arslan,  Blue Market  ,Istanbul,Germany,+90 589 256 40 26,+90 524 677 37 69,ali.arslan32@example.com,2024-10-27,www.bluemarket.com
+CUST-0033,Mehmet,POLAT,Pixel House,Istanbul,Azerbaijan,+90 558 506 35 19,+90 590 348 23 99,mehmet.polat33@example.com,2023-04-28,www.pixelhouse.com
+,Ece,Kaya,Pixel House,  Adana  ,Netherlands,+90 523 543 56 91,,ece.kaya34@example.com,2023-02-12,www.pixelhouse.com
+CUST-0035,Mehmet,Ozturk,Sun Trade,Samsun,United Kingdom,+90 551 972 41 21,+90 567 349 69 82,mehmet.ozturk35@example.com,2023-10-04,www.suntrade.com
+CUST-0036,Ali,Aydin,Delta Soft,Antalya,United Kingdom,+90 581 110 76 34,+90 562 600 81 40,ali.aydin36@example.com,2023-07-06,www.deltasoft.com
+CUST-0037,Zeynep,Aydin,NOVA TECH,Adana,Azerbaijan,+90 580 438 55 99,+90 549 357 39 25,zeynep.aydin37@example.com,2023-04-06,www.novatech.com
+CUST-0038,SELIN,Ozturk,Sun Trade,Antalya,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 539 469 32 48,+90 578 229 45 15,selin.ozturk38@example.com,2023-07-09,www.suntrade.com
+CUST-0039,  Selin  ,  Demir  ,Sun Trade,Samsun,Germany,+90 542 982 71 24,,  selin.demir39@example.com  ,2024-05-17,www.suntrade.com
+CUST-0040,Ahmet,Yilmaz,  Blue Market  ,  Bursa  ,British Indian Ocean Territory (Chagos Archipelago),+90 586 909 89 38,,ahmet.yilmaz40@example.com,2023-06-02,www.bluemarket.com
+CUST-0041,Can,  Polat  ,Artemis Ltd,Ankara,Germany,+90 543 776 20 30,+90 580 176 30 10,zeynep.celik42@example.com,2023-11-09,www.artemisltd.com
+CUST-0042,Zeynep,Celik,Nova Tech,Ankara,France,+90 590 703 94 35,+90 579 330 92 29,zeynep.celik42@example.com,2023-08-26,www.novatech.com
+CUST-0043,Ayşe,Yilmaz,Blue Market,  Samsun  ,United Kingdom,+90 561 378 74 79,+90 520 712 15 65,ayşe.yilmaz43@example.com,2023-11-11,www.bluemarket.com
+CUST-0044,Ali,Kaya,Blue Market,Antalya,British Indian Ocean Territory (Chagos Archipelago),+90 570 631 93 66,,ALI.KAYA44@EXAMPLE.COM,2024-11-21,www.bluemarket.com
+CUST-0045,Ece,Koc,Sun Trade,Adana,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 562 810 73 46,,ece.koc45@example.com,2024-05-18,www.suntrade.com
+CUST-0046,Ali,  Aydin  ,Nova Tech,Istanbul,Azerbaijan,+90 516 292 76 56,+90 573 740 66 16,ALI.AYDIN46@EXAMPLE.COM,2023-11-19,www.novatech.com
+CUST-0047,Deniz,Demir,  Delta Soft  ,Bursa,France,+90 580 517 21 38,,deniz.demir47@example.com,2024-03-24,www.deltasoft.com
+CUST-0048,Ayşe,Demir,Artemis Ltd,SAMSUN,  Azerbaijan  ,+90 534 713 75 27,,ayşe.demir48@example.com,2023-10-26,www.artemisltd.com
+CUST-0049,Murat,Arslan,Pixel House,Samsun,Netherlands,+90 554 440 80 79,+90 551 990 34 99,MURAT.ARSLAN49@EXAMPLE.COM,2023-10-01,www.pixelhouse.com
+CUST-0050,Murat,Sahin,Artemis Ltd,Konya,United Kingdom,+90 593 255 73 14,+90 585 439 22 66,MURAT.SAHIN50@EXAMPLE.COM,2023-02-14,www.artemisltd.com
+CUST-0051,Zeynep,Yilmaz,SUN TRADE,Samsun,France,+90 598 507 93 20,,zeynep.yilmaz51@example.com,2023-05-28,www.suntrade.com
+CUST-0052,Murat,  Arslan  ,  Sun Trade  ,Antalya,  United Kingdom  ,+90 522 878 91 22,+90 598 406 13 15,  murat.arslan52@example.com  ,2024-05-14,www.suntrade.com
+CUST-0053,ELIF,Arslan,Artemis Ltd,IZMIR,Turkey,+90 558 734 97 40,+90 584 246 39 69,elif.arslan53@example.com,2023-05-30,www.artemisltd.com
+CUST-0054,Ahmet,YILMAZ,Artemis Ltd,Adana,France,+90 564 806 42 68,,AHMET.YILMAZ54@EXAMPLE.COM,2023-10-22,www.artemisltd.com
+CUST-0055,Murat,Aydin,Nova Tech,  Antalya  ,British Indian Ocean Territory (Chagos Archipelago),+90 545 108 82 97,,murat.aydin55@example.com,2023-08-31,www.novatech.com
+CUST-0056,Selin,Aydin,Delta Soft,Antalya,United Kingdom,+90 597 958 27 90,+90 590 761 15 49,  selin.aydin56@example.com  ,2023-08-24,www.deltasoft.com
+CUST-0057,Elif,Demir,NOVA TECH,Adana,France,+90 542 944 71 47,,elif.demir57@example.com,2023-10-30,www.novatech.com
+CUST-0058,Ayşe,Demir,Blue Market,  Adana  ,  Netherlands  ,+90 578 226 68 57,,ayşe.demir58@example.com,2024-11-23,www.bluemarket.com
+CUST-0059,AHMET,  Arslan  ,Nova Tech,Adana,Germany,+90 591 943 69 99,+90 562 219 27 15,ahmet.arslan59@example.com,2024-11-22,www.novatech.com
+CUST-0060,Zeynep,  Kaya  ,Nova Tech,Konya,UNITED KINGDOM,+90 563 770 22 72,+90 545 133 98 57,ZEYNEP.KAYA60@EXAMPLE.COM,2023-08-29,www.novatech.com
+CUST-0061,Zeynep,Sahin,Delta Soft,   izmir,FRANCE,+90 525 968 68 21,,zeynep.sahin61@example.com,2023-04-12,www.deltasoft.com
+CUST-0062,Ali,Yilmaz,DELTA SOFT,IZMIR   ,British Indian Ocean Territory (Chagos Archipelago),+90 552 892 28 86,+90 528 233 79 42,ali.yilmaz62@example.com,2023-09-07,www.deltasoft.com
+CUST-0063,Ali,DEMIR,Nova Tech,Izmir,Germany,+90 577 216 18 70,+90 556 625 85 23,ali.demir63@example.com,2024-01-02,www.novatech.com
+CUST-0064,Ece,Yilmaz,Sun Trade,Istanbul,British Indian Ocean Territory (Chagos Archipelago),+90 597 210 72 66,+90 520 429 87 28,ECE.YILMAZ64@EXAMPLE.COM,2024-11-05,www.suntrade.com
+CUST-0065,Can,Polat,Sun Trade,Antalya,Azerbaijan,+90 599 217 93 93,,can.polat65@example.com,2024-08-22,www.suntrade.com
+CUST-0066,Murat,Aydin,Blue Market,Ankara,France,+90 557 256 97 70,+90 520 195 65 22,murat.aydin66@example.com,2024-02-28,www.bluemarket.com
+CUST-0067,Mehmet,Ozturk,Nova Tech,Konya,United Kingdom,+90 564 988 16 46,+90 555 206 83 74,MEHMET.OZTURK67@EXAMPLE.COM,2024-08-23,www.novatech.com
+CUST-0068,Ahmet,Aydin,  Blue Market  ,Antalya,British Indian Ocean Territory (Chagos Archipelago),+90 581 885 89 88,,ahmet.aydin68@example.com,2023-04-21,www.bluemarket.com
+CUST-0069,Ahmet,Celik,Nova Tech,  Adana  ,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 594 510 18 28,,  ahmet.celik69@example.com  ,2023-07-04,www.novatech.com
+CUST-0070,Deniz,SAHIN,Artemis Ltd,Adana,Azerbaijan,+90 516 259 30 89,+90 520 378 66 94,deniz.sahin70@example.com,2024-03-05,www.artemisltd.com
+CUST-0071,  Murat  ,Celik,Blue Market,Samsun,  Turkey  ,+90 560 713 17 10,+90 537 885 27 42,murat.celik71@example.com,2024-06-08,www.bluemarket.com
+CUST-0072,Zeynep,Koc,Blue Market,  Adana  ,British Indian Ocean Territory (Chagos Archipelago),+90 565 119 68 19,,zeynep.koc72@example.com,2023-05-13,www.bluemarket.com
+CUST-0073,Selin,Koc,DELTA SOFT,Samsun,  France  ,+90 523 349 65 85,+90 520 505 49 53,SELIN.KOC73@EXAMPLE.COM,2023-04-28,www.deltasoft.com
+CUST-0074,  Mehmet  ,Kaya,Pixel House,Adana,British Indian Ocean Territory (Chagos Archipelago),+90 528 341 23 28,+90 532 716 29 93,MEHMET.KAYA74@EXAMPLE.COM,2024-10-10,www.pixelhouse.com
+CUST-0075,Ahmet,Aydin,Artemis Ltd,Adana,United Kingdom,+90 566 169 70 66,+90 545 705 17 55,ahmet.aydin75@example.com,2024-07-31,www.artemisltd.com
+CUST-0076,Zeynep,  Yilmaz  ,Nova Tech,Ankara,Azerbaijan,+90 584 667 15 67,,zeynep.yilmaz76@example.com,2024-01-13,www.novatech.com
+CUST-0077,Ece,Aydin,Pixel House,Adana,Turkey,+90 532 140 41 66,,ece.aydin77@example.com,2023-06-04,www.pixelhouse.com
+CUST-0078,Elif,Arslan,Delta Soft,  Adana  ,Turkey,+90 559 390 42 94,,elif.arslan78@example.com,2024-02-01,www.deltasoft.com
+CUST-0079,Ayşe,Polat,Sun Trade,  Konya  ,United Kingdom,+90 549 672 58 92,,ayşe.polat79@example.com,2023-05-25,www.suntrade.com
+CUST-0080,Selin,Ozturk,  Nova Tech  ,ANTALYA,Germany,+90 572 296 38 27,+90 547 964 22 74,selin.ozturk80@example.com,2024-10-23,www.novatech.com
+CUST-0081,Deniz,Yilmaz,Sun Trade,IZMIR,British Indian Ocean Territory (Chagos Archipelago),+90 589 928 31 66,+90 556 792 40 66,deniz.yilmaz81@example.com,2023-12-11,www.suntrade.com
+CUST-0082,Zeynep,Sahin,Pixel House,Bursa,Azerbaijan,+90 569 887 46 58,+90 563 265 35 87,ZEYNEP.SAHIN82@EXAMPLE.COM,2023-09-02,www.pixelhouse.com
+CUST-0083,Can,Yilmaz,  Sun Trade  ,Ankara,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 567 625 28 65,+90 538 936 67 54,can.yilmaz83@example.com,2024-05-07,www.suntrade.com
+CUST-0084,Murat,  Ozturk  ,DELTA SOFT,Adana,British Indian Ocean Territory (Chagos Archipelago),+90 552 910 28 27,+90 570 812 27 70,  murat.ozturk84@example.com  ,2023-08-30,www.deltasoft.com
+CUST-0085,Ayşe,Yilmaz,Delta Soft,  Konya  ,FRANCE,+90 525 148 40 63,+90 589 568 18 24,ayşe.yilmaz85@example.com,2023-08-09,www.deltasoft.com
+CUST-0086,Deniz,Yilmaz,Sun Trade,Istanbul,Germany,+90 533 780 95 20,+90 556 169 77 79,deniz.yilmaz86@example.com,2024-06-11,www.suntrade.com
+CUST-0087,  Deniz  ,Yilmaz,Artemis Ltd,Istanbul,Turkey,+90 594 743 23 84,,  deniz.yilmaz87@example.com  ,2024-04-26,www.artemisltd.com
+CUST-0088,Deniz,Arslan,Sun Trade,Samsun,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 568 137 47 35,+90 535 142 50 49,deniz.arslan88@example.com,2023-06-29,www.suntrade.com
+CUST-0089,Deniz,AYDIN,Delta Soft,Istanbul,France,+90 557 547 61 66,,deniz.aydin89@example.com,2023-02-07,www.deltasoft.com
+CUST-0090,Zeynep,  Aydin  ,Delta Soft,Konya,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 547 428 23 20,+90 547 413 67 87,zeynep.aydin90@example.com,2024-06-15,www.deltasoft.com
+CUST-0091,Zeynep,Arslan,Artemis Ltd,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 519 787 91 61,+90 596 263 13 28,zeynep.arslan91@example.com,2023-02-13,www.artemisltd.com
+CUST-0092,ZEYNEP,Yilmaz,Blue Market,Istanbul,United Kingdom,+90 557 480 66 19,+90 577 475 60 50,zeynep.yilmaz92@example.com,2023-03-10,www.bluemarket.com
+CUST-0093,Ayşe,Yilmaz,Sun Trade,Antalya,United Kingdom,+90 588 392 98 72,+90 527 973 19 67,AYŞE.YILMAZ93@EXAMPLE.COM,2023-07-10,www.suntrade.com
+CUST-0094,Selin,Aydin,Nova Tech,Ankara,France,+90 530 828 99 91,+90 556 620 38 25,selin.aydin94@example.com,2024-11-29,www.novatech.com
+CUST-0095,Fatma,Aydin,Nova Tech,Izmir,  Turkey  ,+90 560 834 71 77,+90 562 943 83 19,FATMA.AYDIN95@EXAMPLE.COM,2024-01-05,www.novatech.com
+CUST-0096,Elif,Kaya,Artemis Ltd,Izmir,Germany,+90 517 951 25 76,+90 531 265 51 38,elif.kaya96@example.com,2024-04-22,www.artemisltd.com
+CUST-0097,Can,Kaya,  Delta Soft  ,Antalya,Turkey,+90 531 706 84 29,+90 589 837 87 53,can.kaya97@example.com,2023-07-21,www.deltasoft.com
+CUST-0098,Ali,Kaya,NOVA TECH,Konya,Turkey,+90 590 658 47 92,,ali.kaya98@example.com,2024-10-18,www.novatech.com
+CUST-0099,  Ahmet  ,  Koc  ,Delta Soft,Samsun,France,+90 550 982 50 54,,AHMET.KOC99@EXAMPLE.COM,2024-04-09,www.deltasoft.com
+CUST-0100,Elif,Ozturk,Pixel House,  Bursa  ,Turkey,+90 559 984 88 63,+90 530 933 51 83,elif.ozturk100@example.com,2023-04-19,www.pixelhouse.com
+CUST-0101,Mehmet,Aydin,  Pixel House  ,Konya,GERMANY,+90 555 149 16 46,+90 593 788 70 46,mehmet.aydin101@example.com,2024-04-23,www.pixelhouse.com
+CUST-0102,Murat,Demir,Delta Soft,Bursa,  France  ,+90 574 561 80 45,,murat.demir102@example.com,2024-01-10,www.deltasoft.com
+CUST-0103,Mehmet,Kaya,Artemis Ltd,IZMIR,Azerbaijan,+90 515 146 14 27,,mehmet.kaya103@example.com,2024-01-18,www.artemisltd.com
+CUST-0104,Mehmet,Polat,PIXEL HOUSE,Antalya,Azerbaijan,+90 578 601 82 48,+90 512 477 52 96,MEHMET.POLAT104@EXAMPLE.COM,2023-05-24,www.pixelhouse.com
+CUST-0105,  Murat  ,Polat,Delta Soft,Bursa,Azerbaijan,+90 577 744 89 58,+90 597 348 14 83,murat.polat105@example.com,2024-10-06,www.deltasoft.com
+CUST-0106,ALI,Aydin,Delta Soft,Samsun,United Kingdom,+90 527 631 36 81,+90 594 589 77 58,ali.aydin106@example.com,2024-03-04,www.deltasoft.com
+CUST-0107,Deniz,Arslan,Pixel House,Antalya,Germany,+90 545 671 48 38,,deniz.arslan107@example.com,2023-12-29,www.pixelhouse.com
+CUST-0108,Selin,Sahin,Sun Trade,Antalya,Azerbaijan,+90 558 504 54 28,+90 546 831 20 54,selin.sahin108@example.com,2024-05-15,www.suntrade.com
+CUST-0109,Selin,Aydin,Blue Market,  Antalya  ,Azerbaijan,+90 540 348 16 95,,SELIN.AYDIN109@EXAMPLE.COM,2023-07-26,www.bluemarket.com
+CUST-0110,Fatma,Yilmaz,Nova Tech,  Izmir  ,Azerbaijan,+90 530 516 93 70,+90 535 874 46 51,  fatma.yilmaz110@example.com  ,2024-02-28,www.novatech.com
+CUST-0111,Ayşe,Polat,  Blue Market  ,Izmir,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 514 956 60 73,+90 547 997 14 11,ayşe.polat111@example.com,2024-07-01,www.bluemarket.com
+CUST-0112,Elif,Celik,Artemis Ltd,Samsun,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 530 848 68 92,+90 533 114 53 47,elif.celik112@example.com,2024-10-18,www.artemisltd.com
+CUST-0113,Mehmet,Polat,  Sun Trade  ,ANKARA,Germany,+90 541 106 43 59,+90 544 437 48 84,  mehmet.polat113@example.com  ,2024-02-20,www.suntrade.com
+CUST-0114,  Ahmet  ,  Arslan  ,Sun Trade,Konya,United Kingdom,+90 598 220 91 47,+90 538 324 27 71,AHMET.ARSLAN114@EXAMPLE.COM,2023-08-30,www.suntrade.com
+CUST-0115,Selin,Polat,Delta Soft,Bursa,United Kingdom,+90 520 638 67 77,,SELIN.POLAT115@EXAMPLE.COM,2024-03-01,www.deltasoft.com
+CUST-0116,Ece,KAYA,Nova Tech,Izmir,Azerbaijan,+90 597 310 84 72,+90 575 556 17 68,ECE.KAYA116@EXAMPLE.COM,2024-07-14,www.novatech.com
+CUST-0117,Murat,Aydin,Pixel House,Istanbul,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 537 692 19 15,+90 599 165 79 17,  murat.aydin117@example.com  ,2023-03-01,www.pixelhouse.com
+CUST-0118,ZEYNEP,  Yilmaz  ,Delta Soft,Konya,Netherlands,+90 558 484 20 97,,zeynep.yilmaz118@example.com,2024-02-23,www.deltasoft.com
+CUST-0119,Elif,  Kaya  ,Blue Market,Istanbul,France,+90 579 534 78 58,,ELIF.KAYA119@EXAMPLE.COM,2024-07-04,www.bluemarket.com
+CUST-0120,Elif,Demir,  Delta Soft  ,Konya,TURKEY,+90 518 203 86 14,+90 596 820 16 41,elif.demir120@example.com,2023-07-13,www.deltasoft.com
+CUST-0121,  Fatma  ,Ozturk,BLUE MARKET,Adana,British Indian Ocean Territory (Chagos Archipelago),+90 551 342 48 28,,fatma.ozturk121@example.com,2023-02-27,www.bluemarket.com
+CUST-0122,Can,Yilmaz,Pixel House,Konya,Turkey,+90 592 787 58 77,+90 563 518 29 48,can.yilmaz122@example.com,2024-08-28,www.pixelhouse.com
+CUST-0123,Zeynep,  Sahin  ,Blue Market,Istanbul,Netherlands,+90 527 497 41 42,+90 592 180 67 57,ZEYNEP.SAHIN123@EXAMPLE.COM,2023-11-04,www.bluemarket.com
+CUST-0124,Selin,Sahin,  Nova Tech  ,ANKARA,British Indian Ocean Territory (Chagos Archipelago),+90 595 672 37 71,+90 552 410 11 37,selin.sahin124@example.com,2023-10-02,www.novatech.com
+CUST-0125,Ayşe,Aydin,BLUE MARKET,Adana,Netherlands,+90 593 467 49 43,+90 573 577 22 70,ayşe.aydin125@example.com,2024-09-10,www.bluemarket.com
+CUST-0126,  Fatma  ,Arslan,Delta Soft,Istanbul,Azerbaijan,+90 563 402 29 35,+90 558 683 41 73,fatma.arslan126@example.com,2024-02-28,www.deltasoft.com
+CUST-0127,Elif,Celik,Artemis Ltd,ADANA,United Kingdom,+90 533 655 92 17,+90 519 937 95 16,elif.celik127@example.com,2024-10-19,www.artemisltd.com
+CUST-0128,  Ahmet  ,Sahin,Nova Tech,Samsun,  Turkey  ,+90 580 521 11 12,+90 545 648 46 12,ahmet.sahin128@example.com,2023-06-04,www.novatech.com
+CUST-0129,Murat,DEMIR,Nova Tech,Antalya,France,+90 520 482 61 68,+90 599 331 48 97,  murat.demir129@example.com  ,2023-04-09,www.novatech.com
+CUST-0130,Ahmet,Yilmaz,  Nova Tech  ,Istanbul,Turkey,+90 565 760 52 82,,ahmet.yilmaz130@example.com,2024-02-20,www.novatech.com
+CUST-0131,Ali,  Sahin  ,  Blue Market  ,Antalya,Azerbaijan,+90 532 970 50 12,,ali.sahin131@example.com,2024-08-03,www.bluemarket.com
+CUST-0132,SELIN,KOC,Nova Tech,Konya,Azerbaijan,+90 527 909 98 20,+90 554 154 22 65,SELIN.KOC132@EXAMPLE.COM,2023-11-03,www.novatech.com
+CUST-0133,Ayşe,Arslan,Pixel House,Istanbul,British Indian Ocean Territory (Chagos Archipelago),+90 572 333 55 80,,ayşe.arslan133@example.com,2024-09-20,www.pixelhouse.com
+CUST-0134,Ahmet,KOC,  Nova Tech  ,ANTALYA,United Kingdom,+90 529 857 59 50,+90 521 105 49 66,ahmet.koc134@example.com,2024-09-25,www.novatech.com
+CUST-0135,Mehmet,Kaya,Blue Market,  Istanbul  ,  Azerbaijan  ,+90 586 903 51 59,+90 562 497 20 81,mehmet.kaya135@example.com,2024-03-17,www.bluemarket.com
+CUST-0136,ECE,Ozturk,Blue Market,  Izmir  ,Netherlands,+90 548 595 19 56,+90 541 838 90 73,ece.ozturk136@example.com,2024-01-25,www.bluemarket.com
+CUST-0137,Ayşe,Demir,Delta Soft,Adana,Netherlands,+90 593 708 27 48,+90 598 305 71 50,AYŞE.DEMIR137@EXAMPLE.COM,2023-01-07,www.deltasoft.com
+CUST-0138,Murat,Arslan,DELTA SOFT,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 524 677 35 85,,MURAT.ARSLAN138@EXAMPLE.COM,2024-10-10,www.deltasoft.com
+CUST-0139,Deniz,YILMAZ,Sun Trade,Ankara,British Indian Ocean Territory (Chagos Archipelago),+90 596 611 27 91,+90 542 774 29 64,  deniz.yilmaz139@example.com  ,2024-04-17,www.suntrade.com
+CUST-0140,Ece,Aydin,Pixel House,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 599 931 78 86,+90 520 211 41 94,ece.aydin140@example.com,2024-02-15,www.pixelhouse.com
+CUST-0141,Ece,Yilmaz,Pixel House,  Konya  ,Turkey,+90 575 864 76 81,+90 583 326 67 57,ece.yilmaz141@example.com,2024-10-22,www.pixelhouse.com
+CUST-0142,Ece,Ozturk,Blue Market,  Ankara  ,  United Kingdom  ,+90 549 451 68 36,+90 554 587 22 66,ece.ozturk142@example.com,2023-12-20,www.bluemarket.com
+CUST-0143,  Ayşe  ,Celik,  Nova Tech  ,Izmir,UNITED KINGDOM,+90 532 665 30 52,+90 569 337 61 90,AYŞE.CELIK143@EXAMPLE.COM,2023-04-28,www.novatech.com
+CUST-0144,Ahmet,Koc,Artemis Ltd,Konya,UNITED KINGDOM,+90 545 870 18 83,+90 578 291 56 51,AHMET.KOC144@EXAMPLE.COM,2023-01-30,www.artemisltd.com
+CUST-0145,Ayşe,Celik,Sun Trade,Konya,France,+90 568 732 32 96,,ayşe.celik145@example.com,2024-05-16,www.suntrade.com
+CUST-0146,AYŞE,  Demir  ,Delta Soft,Izmir,Netherlands,+90 583 492 64 33,+90 578 810 92 32,ayşe.demir146@example.com,2023-05-01,www.deltasoft.com
+CUST-0147,Mehmet,Demir,Delta Soft,  Samsun  ,British Indian Ocean Territory (Chagos Archipelago),+90 581 617 93 73,+90 572 525 66 72,MEHMET.DEMIR147@EXAMPLE.COM,2024-04-06,www.deltasoft.com
+CUST-0148,  Ece  ,YILMAZ,Blue Market,Samsun,British Indian Ocean Territory (Chagos Archipelago),+90 580 623 24 83,+90 579 943 56 79,  ece.yilmaz148@example.com  ,2023-10-27,www.bluemarket.com
+CUST-0149,Selin,  Aydin  ,Pixel House,Bursa,Turkey,+90 554 982 21 66,,SELIN.AYDIN149@EXAMPLE.COM,2023-08-12,www.pixelhouse.com
+CUST-0150,Fatma,Sahin,Sun Trade,KONYA,Germany,+90 536 924 17 82,+90 545 711 78 31,fatma.sahin150@example.com,2024-08-25,www.suntrade.com
+CUST-0151,Can,Polat,  Delta Soft  ,Konya,France,+90 526 818 26 41,+90 551 948 41 96,can.polat151@example.com,2024-06-10,www.deltasoft.com
+CUST-0152,Ahmet,  Celik  ,Sun Trade,Ankara,United Kingdom,+90 557 565 72 51,+90 521 848 68 91,ahmet.celik152@example.com,2024-02-29,www.suntrade.com
+CUST-0153,Ayşe,Ozturk,Artemis Ltd,Adana,France,+90 526 679 72 53,,  ayşe.ozturk153@example.com  ,2023-08-12,www.artemisltd.com
+CUST-0154,Ahmet,AYDIN,Nova Tech,KONYA,United Kingdom,+90 593 409 30 45,+90 556 356 20 57,ahmet.aydin154@example.com,2023-05-08,www.novatech.com
+CUST-0155,Ali,Koc,Sun Trade,Ankara,TURKEY,+90 519 235 85 38,+90 566 109 11 99,ali.koc155@example.com,2023-11-09,www.suntrade.com
+CUST-0156,MURAT,  Demir  ,Artemis Ltd,Ankara,  France  ,+90 527 756 96 28,+90 582 108 88 93,MURAT.DEMIR156@EXAMPLE.COM,2023-03-14,www.artemisltd.com
+CUST-0157,Elif,Sahin,Sun Trade,  Bursa  ,  Turkey  ,+90 525 703 59 54,,elif.sahin157@example.com,2023-06-05,www.suntrade.com
+CUST-0158,Can,Kaya,Blue Market,Istanbul,United Kingdom,+90 536 630 87 75,+90 560 402 92 16,can.kaya158@example.com,2024-07-20,www.bluemarket.com
+CUST-0159,FATMA,Aydin,  Artemis Ltd  ,Istanbul,  France  ,+90 582 530 56 79,,fatma.aydin159@example.com,2023-04-26,www.artemisltd.com
+CUST-0160,  Ayşe  ,YILMAZ,Pixel House,Konya,United Kingdom,+90 563 533 99 61,+90 578 650 88 29,ayşe.yilmaz160@example.com,2023-03-11,www.pixelhouse.com
+CUST-0161,Deniz,Sahin,Blue Market,Ankara,Netherlands,+90 540 159 41 21,,DENIZ.SAHIN161@EXAMPLE.COM,2024-07-03,www.bluemarket.com
+CUST-0162,Ece,Polat,NOVA TECH,Istanbul,  United Kingdom  ,+90 573 455 76 76,,ece.polat162@example.com,2023-11-13,www.novatech.com
+CUST-0163,Mehmet,  Celik  ,Sun Trade,Antalya,France,+90 583 742 19 73,+90 556 156 73 82,MEHMET.CELIK163@EXAMPLE.COM,2023-05-01,www.suntrade.com
+CUST-0164,Mehmet,  Celik  ,Nova Tech,  Istanbul  ,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 515 583 56 59,,MEHMET.CELIK164@EXAMPLE.COM,2024-08-10,www.novatech.com
+CUST-0165,Ali,Ozturk,Sun Trade,Adana,Turkey,+90 525 614 96 16,+90 576 147 61 18,ali.ozturk165@example.com,2024-11-02,www.suntrade.com
+CUST-0166,Can,Arslan,Nova Tech,Antalya,Germany,+90 585 605 35 79,,CAN.ARSLAN166@EXAMPLE.COM,2024-07-20,www.novatech.com
+CUST-0167,Ali,Koc,Nova Tech,Istanbul,Turkey,+90 558 969 49 23,+90 540 529 72 17,ali.koc167@example.com,2023-08-27,www.novatech.com
+CUST-0168,Can,Kaya,Nova Tech,Adana,  United Kingdom  ,+90 522 617 27 91,,CAN.KAYA168@EXAMPLE.COM,2023-08-26,www.novatech.com
+CUST-0169,Ece,YILMAZ,Artemis Ltd,Adana,Netherlands,+90 551 425 67 44,+90 535 239 84 23,ECE.YILMAZ169@EXAMPLE.COM,2024-11-09,www.artemisltd.com
+CUST-0170,Mehmet,Aydin,Artemis Ltd,Bursa,Netherlands,+90 525 192 30 97,+90 599 717 15 37,mehmet.aydin170@example.com,2023-11-18,www.artemisltd.com
+CUST-0171,Ayşe,Sahin,Delta Soft,  Izmir  ,Netherlands,+90 581 866 80 41,+90 523 923 27 25,AYŞE.SAHIN171@EXAMPLE.COM,2024-02-10,www.deltasoft.com
+CUST-0172,Fatma,Demir,Blue Market,Antalya,  Turkey  ,+90 518 302 92 66,,FATMA.DEMIR172@EXAMPLE.COM,2024-02-15,www.bluemarket.com
+CUST-0173,  Elif  ,Kaya,Nova Tech,Konya,Netherlands,+90 532 462 37 33,+90 567 252 14 88,elif.kaya173@example.com,2024-04-17,www.novatech.com
+CUST-0174,Can,  Aydin  ,Artemis Ltd,KONYA,British Indian Ocean Territory (Chagos Archipelago),+90 590 921 79 12,,can.aydin174@example.com,2024-07-17,www.artemisltd.com
+CUST-0175,Deniz,Aydin,DELTA SOFT,Adana,Turkey,+90 545 159 70 77,+90 584 338 30 22,DENIZ.AYDIN175@EXAMPLE.COM,2024-08-02,www.deltasoft.com
+CUST-0176,Fatma,Celik,Pixel House,Konya,British Indian Ocean Territory (Chagos Archipelago),+90 532 280 40 85,+90 599 467 85 13,fatma.celik176@example.com,2023-02-27,www.pixelhouse.com
+CUST-0177,Ece,Polat,Blue Market,Samsun,Germany,+90 521 157 39 87,+90 577 589 10 52,ece.polat177@example.com,2024-07-30,www.bluemarket.com
+CUST-0178,Mehmet,Arslan,Sun Trade,  Istanbul  ,United Kingdom,+90 524 966 77 56,,mehmet.arslan178@example.com,2023-07-01,www.suntrade.com
+CUST-0179,Murat,  Polat  ,NOVA TECH,Konya,Netherlands,+90 532 824 81 98,,murat.polat179@example.com,2023-12-11,www.novatech.com
+CUST-0180,Ahmet,Polat,  Blue Market  ,Istanbul,Azerbaijan,+90 582 133 33 87,+90 588 326 91 82,AHMET.POLAT180@EXAMPLE.COM,2024-01-23,www.bluemarket.com
+CUST-0181,ZEYNEP,Demir,DELTA SOFT,Ankara,United Kingdom,+90 552 557 11 43,+90 598 169 54 42,zeynep.demir181@example.com,2023-03-21,www.deltasoft.com
+CUST-0182,Ali,Koc,Artemis Ltd,Konya,  Netherlands  ,+90 571 907 83 93,,ALI.KOC182@EXAMPLE.COM,2024-03-05,www.artemisltd.com
+CUST-0183,  Zeynep  ,Kaya,  Nova Tech  ,ADANA,NETHERLANDS,+90 519 660 21 53,+90 588 594 13 65,zeynep.kaya183@example.com,2023-10-29,www.novatech.com
+CUST-0184,Murat,Demir,Nova Tech,Antalya,FRANCE,+90 516 502 83 80,,MURAT.DEMIR184@EXAMPLE.COM,2023-04-14,www.novatech.com
+CUST-0185,Elif,Yilmaz,Artemis Ltd,  Bursa  ,GERMANY,+90 547 183 70 24,+90 560 582 72 94,elif.yilmaz185@example.com,2023-03-31,www.artemisltd.com
+CUST-0186,Murat,Demir,Delta Soft,Samsun,British Indian Ocean Territory (Chagos Archipelago),+90 517 254 99 95,+90 595 452 79 62,murat.demir186@example.com,2024-01-26,www.deltasoft.com
+CUST-0187,Deniz,Yilmaz,Artemis Ltd,Samsun,Germany,+90 520 504 14 74,+90 576 919 83 96,deniz.yilmaz187@example.com,2024-06-19,www.artemisltd.com
+CUST-0188,Zeynep,  Demir  ,Blue Market,KONYA,British Indian Ocean Territory (Chagos Archipelago),+90 586 364 50 18,+90 581 506 80 51,zeynep.demir188@example.com,2023-08-05,www.bluemarket.com
+CUST-0189,Ali,  Polat  ,  Pixel House  ,Ankara,Azerbaijan,+90 546 988 78 54,,ali.polat189@example.com,2024-06-19,www.pixelhouse.com
+CUST-0190,ECE,Polat,Artemis Ltd,  Konya  ,France,+90 516 863 70 44,,ECE.POLAT190@EXAMPLE.COM,2023-02-08,www.artemisltd.com
+CUST-0191,Can,Celik,Delta Soft,  Bursa  ,United Kingdom,+90 551 375 63 87,+90 534 552 37 62,can.celik191@example.com,2024-05-18,www.deltasoft.com
+CUST-0192,  Elif  ,Yilmaz,Pixel House,ISTANBUL,BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO),+90 517 355 14 68,+90 556 821 35 45,elif.yilmaz192@example.com,2023-06-12,www.pixelhouse.com
+CUST-0193,MURAT,Kaya,Sun Trade,Samsun,France,+90 543 866 98 21,+90 559 150 30 83,murat.kaya193@example.com,2023-02-01,www.suntrade.com
+CUST-0194,Fatma,Sahin,  Sun Trade  ,Istanbul,Germany,+90 586 920 11 38,+90 549 829 92 45,fatma.sahin194@example.com,2023-07-31,www.suntrade.com
+CUST-0195,Elif,Aydin,Delta Soft,Konya,Turkey,+90 594 963 57 81,+90 587 389 48 97,ELIF.AYDIN195@EXAMPLE.COM,2023-08-12,www.deltasoft.com
+CUST-0196,Ayşe,Arslan,Delta Soft,ANTALYA,Azerbaijan,+90 517 924 86 61,,ayşe.arslan196@example.com,2024-10-17,www.deltasoft.com
+CUST-0197,Ahmet,Aydin,Delta Soft,Bursa,UNITED KINGDOM,+90 578 753 70 95,+90 548 965 31 94,ahmet.aydin197@example.com,2023-09-23,www.deltasoft.com
+CUST-0198,Ayşe,Aydin,Blue Market,Adana,Germany,+90 549 530 52 57,+90 547 574 25 70,AYŞE.AYDIN198@EXAMPLE.COM,2023-09-22,www.bluemarket.com
+CUST-0199,  Ahmet  ,Polat,Pixel House,Konya,  Netherlands  ,+90 529 240 35 53,+90 582 568 28 50,ahmet.polat199@example.com,2024-09-27,www.pixelhouse.com
+CUST-0200,Ayşe,Aydin,  Delta Soft  ,Samsun,British Indian Ocean Territory (Chagos Archipelago),+90 583 882 30 72,,ayşe.aydin200@example.com,2024-10-08,www.deltasoft.com
+CUST-0201,Murat,Koc,  Artemis Ltd  ,Bursa,Turkey,+90 577 295 12 96,+90 541 331 98 54,murat.koc201@example.com,2024-03-15,www.artemisltd.com
+CUST-0202,  Deniz  ,  Polat  ,Delta Soft,Samsun,Azerbaijan,+90 565 803 27 53,,deniz.polat202@example.com,2023-06-21,www.deltasoft.com
+CUST-0203,MEHMET,Koc,NOVA TECH,Istanbul,  Germany  ,+90 593 911 14 58,,mehmet.koc203@example.com,2023-08-22,www.novatech.com
+CUST-0204,  Ali  ,Polat,  Nova Tech  ,Ankara,  Netherlands  ,+90 542 585 99 29,+90 597 745 11 48,ali.polat204@example.com,2024-11-08,www.novatech.com
+CUST-0205,Deniz,Celik,Pixel House,Ankara,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 535 723 35 43,,deniz.celik205@example.com,2024-09-12,www.pixelhouse.com
+CUST-0206,Murat,Celik,Blue Market,Samsun,  Turkey  ,+90 521 213 83 95,+90 521 898 75 19,murat.celik206@example.com,2023-02-10,www.bluemarket.com
+CUST-0207,Can,  Sahin  ,Artemis Ltd,Istanbul,France,+90 550 536 24 22,,  can.sahin207@example.com  ,2023-10-31,www.artemisltd.com
+CUST-0208,Mehmet,Demir,Delta Soft,Ankara,FRANCE,+90 561 509 68 44,,mehmet.demir208@example.com,2024-01-02,www.deltasoft.com
+CUST-0209,Murat,  Demir  ,Nova Tech,  Izmir  ,Azerbaijan,+90 582 794 66 33,+90 555 726 13 97,murat.demir209@example.com,2023-05-16,www.novatech.com
+CUST-0210,Mehmet,Aydin,  Artemis Ltd  ,  Adana  ,British Indian Ocean Territory (Chagos Archipelago),+90 583 841 82 38,,mehmet.aydin210@example.com,2023-04-26,www.artemisltd.com
+CUST-0211,Deniz,POLAT,Nova Tech,  Konya  ,British Indian Ocean Territory (Chagos Archipelago),+90 588 155 11 92,,deniz.polat211@example.com,2024-03-19,www.novatech.com
+CUST-0212,Zeynep,Demir,Nova Tech,Bursa,Netherlands,+90 540 180 68 66,,zeynep.demir212@example.com,2024-05-18,www.novatech.com
+CUST-0213,Zeynep,  Arslan  ,Nova Tech,Istanbul,Turkey,+90 587 733 91 48,,zeynep.arslan213@example.com,2024-05-24,www.novatech.com
+CUST-0214,Zeynep,Arslan,Delta Soft,Samsun,France,+90 524 199 94 38,+90 555 949 91 47,zeynep.arslan214@example.com,2023-02-25,www.deltasoft.com
+CUST-0215,  Ayşe  ,Yilmaz,Blue Market,Ankara,GERMANY,+90 560 320 68 34,,AYŞE.YILMAZ215@EXAMPLE.COM,2024-05-19,www.bluemarket.com
+CUST-0216,Murat,Yilmaz,Sun Trade,Izmir,Turkey,+90 516 666 65 84,+90 575 899 32 98,murat.yilmaz216@example.com,2024-11-19,www.suntrade.com
+CUST-0217,Mehmet,Kaya,Artemis Ltd,Konya,Azerbaijan,+90 541 380 60 53,,mehmet.kaya217@example.com,2024-11-04,www.artemisltd.com
+CUST-0218,Murat,Polat,Sun Trade,BURSA,Azerbaijan,+90 597 453 96 26,,murat.polat218@example.com,2024-06-08,www.suntrade.com
+CUST-0219,Deniz,  Ozturk  ,Sun Trade,Samsun,United Kingdom,+90 596 865 78 46,,  deniz.ozturk219@example.com  ,2024-10-14,www.suntrade.com
+CUST-0220,  Ayşe  ,  Yilmaz  ,Artemis Ltd,Izmir,United Kingdom,+90 517 807 47 36,,AYŞE.YILMAZ220@EXAMPLE.COM,2023-05-29,www.artemisltd.com
+CUST-0221,Zeynep,Kaya,Pixel House,KONYA,British Indian Ocean Territory (Chagos Archipelago),+90 599 394 98 95,+90 558 496 63 97,zeynep.kaya221@example.com,2024-11-22,www.pixelhouse.com
+CUST-0222,Ali,Celik,Blue Market,Bursa,United Kingdom,+90 557 873 85 79,,ALI.CELIK222@EXAMPLE.COM,2024-09-27,www.bluemarket.com
+CUST-0223,SELIN,Sahin,DELTA SOFT,Izmir,Turkey,+90 564 385 81 43,+90 584 966 42 10,selin.sahin223@example.com,2024-04-04,www.deltasoft.com
+CUST-0224,Mehmet,Yilmaz,Blue Market,Antalya,Azerbaijan,+90 519 902 50 77,+90 533 633 18 74,MEHMET.YILMAZ224@EXAMPLE.COM,2023-11-27,www.bluemarket.com
+CUST-0225,Deniz,Ozturk,Artemis Ltd,Adana,Germany,+90 589 643 70 81,,  deniz.ozturk225@example.com  ,2023-04-05,www.artemisltd.com
+CUST-0226,Ahmet,Arslan,Artemis Ltd,Istanbul,France,+90 524 495 42 79,,AHMET.ARSLAN226@EXAMPLE.COM,2023-09-04,www.artemisltd.com
+CUST-0227,Deniz,  Arslan  ,Pixel House,Bursa,Turkey,+90 531 891 78 78,+90 518 315 95 90,deniz.arslan227@example.com,2024-06-04,www.pixelhouse.com
+CUST-0228,Murat,Kaya,Blue Market,Konya,Turkey,+90 529 124 68 52,+90 519 155 32 42,murat.kaya228@example.com,2024-07-04,www.bluemarket.com
+CUST-0229,Fatma,Celik,Artemis Ltd,Konya,  Azerbaijan  ,+90 589 164 84 15,,FATMA.CELIK229@EXAMPLE.COM,2024-02-02,www.artemisltd.com
+CUST-0230,Deniz,Kaya,Delta Soft,Konya,  United Kingdom  ,+90 530 646 38 27,,deniz.kaya230@example.com,2023-11-05,www.deltasoft.com
+CUST-0231,Can,Demir,Delta Soft,Adana,Turkey,+90 581 244 25 15,+90 586 503 78 80,can.demir231@example.com,2024-11-24,www.deltasoft.com
+CUST-0232,Selin,Arslan,  Blue Market  ,IZMIR,British Indian Ocean Territory (Chagos Archipelago),+90 524 285 95 82,,selin.arslan232@example.com,2024-02-27,www.bluemarket.com
+CUST-0233,  Deniz  ,Aydin,Sun Trade,Bursa,Netherlands,+90 555 231 95 93,+90 546 734 18 34,deniz.aydin233@example.com,2024-07-16,www.suntrade.com
+CUST-0234,ECE,Celik,Sun Trade,KONYA,FRANCE,+90 538 829 92 65,+90 556 237 96 52,ece.celik234@example.com,2024-08-21,www.suntrade.com
+CUST-0235,  Elif  ,Celik,  Artemis Ltd  ,Antalya,Germany,+90 535 369 90 19,,elif.celik235@example.com,2024-07-18,www.artemisltd.com
+CUST-0236,Ahmet,Yilmaz,Pixel House,Antalya,Azerbaijan,+90 529 474 60 38,,ahmet.yilmaz236@example.com,2024-08-15,www.pixelhouse.com
+CUST-0237,  Mehmet  ,Aydin,  Pixel House  ,Bursa,British Indian Ocean Territory (Chagos Archipelago),+90 597 269 75 27,+90 532 679 82 94,mehmet.aydin237@example.com,2024-06-06,www.pixelhouse.com
+CUST-0238,SELIN,Aydin,  Delta Soft  ,ADANA,UNITED KINGDOM,+90 556 497 70 68,,SELIN.AYDIN238@EXAMPLE.COM,2023-02-11,www.deltasoft.com
+CUST-0239,Ahmet,Arslan,Nova Tech,Izmir,Netherlands,+90 593 955 19 76,+90 538 628 61 55,ahmet.arslan239@example.com,2024-06-17,www.novatech.com
+CUST-0240,Zeynep,Polat,NOVA TECH,ANTALYA,GERMANY,+90 587 834 25 94,+90 552 837 24 71,zeynep.polat240@example.com,2024-05-28,www.novatech.com
+CUST-0241,  Ece  ,  Demir  ,Sun Trade,  Izmir  ,  Azerbaijan  ,+90 583 250 17 31,+90 533 629 61 86,ece.demir241@example.com,2024-02-25,www.suntrade.com
+CUST-0242,Selin,Celik,Nova Tech,IZMIR,Netherlands,+90 584 940 33 89,,selin.celik242@example.com,2023-08-10,www.novatech.com
+CUST-0243,  Elif  ,Aydin,  Pixel House  ,ISTANBUL,British Indian Ocean Territory (Chagos Archipelago),+90 597 529 29 87,+90 570 729 86 14,elif.aydin243@example.com,2024-08-27,www.pixelhouse.com
+CUST-0244,  Ayşe  ,Kaya,Artemis Ltd,Konya,France,+90 599 642 64 39,,ayşe.kaya244@example.com,2024-11-06,www.artemisltd.com
+CUST-0245,  Elif  ,  Polat  ,Sun Trade,Bursa,Turkey,+90 579 518 42 34,+90 510 691 76 25,elif.polat245@example.com,2024-08-12,www.suntrade.com
+CUST-0246,  Fatma  ,Arslan,Artemis Ltd,Antalya,Netherlands,+90 588 382 97 60,,fatma.arslan246@example.com,2024-01-06,www.artemisltd.com
+CUST-0247,Zeynep,Demir,Delta Soft,Adana,Netherlands,+90 594 221 39 67,,zeynep.demir247@example.com,2024-07-26,www.deltasoft.com
+CUST-0248,Deniz,Koc,  Delta Soft  ,Konya,Turkey,+90 528 582 86 65,+90 543 327 57 20,deniz.koc248@example.com,2024-07-17,www.deltasoft.com
+CUST-0249,Murat,Polat,  Sun Trade  ,Izmir,  Netherlands  ,+90 594 923 76 46,+90 586 622 76 99,MURAT.POLAT249@EXAMPLE.COM,2024-06-17,www.suntrade.com
+CUST-0250,Mehmet,Yilmaz,  Delta Soft  ,Antalya,France,+90 561 700 35 76,+90 518 192 80 46,mehmet.yilmaz250@example.com,2023-09-02,www.deltasoft.com
+CUST-0251,ECE,Arslan,Delta Soft,Konya,FRANCE,+90 574 209 81 19,+90 553 219 75 42,ece.arslan251@example.com,2023-10-11,www.deltasoft.com
+CUST-0252,Ece,Celik,Sun Trade,Adana,Netherlands,+90 585 982 13 71,+90 518 491 91 38,ece.celik252@example.com,2024-03-29,www.suntrade.com
+CUST-0253,Elif,Koc,Delta Soft,  Antalya  ,United Kingdom,+90 553 177 80 32,+90 555 323 83 44,ELIF.KOC253@EXAMPLE.COM,2024-06-12,www.deltasoft.com
+CUST-0254,SELIN,SAHIN,Artemis Ltd,BURSA,Germany,+90 555 259 23 25,,selin.sahin254@example.com,2023-07-24,www.artemisltd.com
+CUST-0255,Ece,Yilmaz,Pixel House,Antalya,British Indian Ocean Territory (Chagos Archipelago),+90 545 507 38 83,+90 577 918 64 71,  ece.yilmaz255@example.com  ,2023-02-13,www.pixelhouse.com
+CUST-0256,Elif,  Koc  ,Sun Trade,Adana,Turkey,+90 558 694 22 51,+90 543 291 80 43,ELIF.KOC256@EXAMPLE.COM,2023-06-28,www.suntrade.com
+CUST-0257,ZEYNEP,Polat,Delta Soft,Adana,Netherlands,+90 533 685 26 83,,zeynep.polat257@example.com,2024-01-10,www.deltasoft.com
+CUST-0258,FATMA,Ozturk,Artemis Ltd,Samsun,Germany,+90 527 969 90 76,+90 550 904 72 48,fatma.ozturk258@example.com,2024-01-26,www.artemisltd.com
+CUST-0259,  Ali  ,Koc,Nova Tech,Ankara,France,+90 556 673 81 42,+90 562 224 54 96,ali.koc259@example.com,2023-06-17,www.novatech.com
+CUST-0260,Ece,Ozturk,Blue Market,Samsun,Netherlands,+90 569 746 28 31,+90 553 531 90 88,ece.ozturk260@example.com,2023-10-19,www.bluemarket.com
+CUST-0261,AYŞE,Kaya,Blue Market,Antalya,Netherlands,+90 566 899 56 85,+90 567 523 31 33,ayşe.kaya261@example.com,2023-12-18,www.bluemarket.com
+CUST-0262,FATMA,Celik,  Sun Trade  ,Samsun,Turkey,+90 577 883 20 23,+90 529 186 93 59,fatma.celik262@example.com,2023-03-23,www.suntrade.com
+CUST-0263,  Can  ,Aydin,  Sun Trade  ,Adana,France,+90 569 991 79 44,+90 527 814 79 32,can.aydin263@example.com,2023-05-10,www.suntrade.com
+CUST-0264,Selin,Polat,Artemis Ltd,Samsun,  British Indian Ocean Territory (Chagos Archipelago)  ,+90 549 474 62 43,+90 511 100 76 27,selin.polat264@example.com,2024-06-20,www.artemisltd.com
+CUST-0265,  Ali  ,Aydin,Artemis Ltd,Bursa,Azerbaijan,+90 562 674 65 60,+90 592 499 58 38,ali.aydin265@example.com,2023-11-03,www.artemisltd.com
+CUST-0266,Fatma,Ozturk,Pixel House,KONYA,TURKEY,+90 547 213 91 68,+90 544 817 89 72,FATMA.OZTURK266@EXAMPLE.COM,2023-10-06,www.pixelhouse.com
+CUST-0267,  Ali  ,Demir,Nova Tech,Izmir,  United Kingdom  ,+90 521 254 11 73,+90 563 419 73 57,ali.demir267@example.com,2024-07-01,www.novatech.com
+CUST-0268,Elif,Kaya,Blue Market,IZMIR,British Indian Ocean Territory (Chagos Archipelago),+90 558 948 11 25,,elif.kaya268@example.com,2023-02-27,www.bluemarket.com
+CUST-0269,ZEYNEP,Sahin,  Sun Trade  ,Bursa,United Kingdom,+90 551 262 90 15,,zeynep.sahin269@example.com,2023-02-04,www.suntrade.com
+CUST-0270,Zeynep,Celik,BLUE MARKET,ANKARA,Netherlands,+90 531 913 45 84,+90 541 109 15 84,zeynep.celik270@example.com,2024-01-05,www.bluemarket.com
+CUST-0271,ECE,Demir,Delta Soft,Adana,British Indian Ocean Territory (Chagos Archipelago),+90 517 464 92 29,,ece.demir271@example.com,2023-04-02,www.deltasoft.com
+CUST-0272,Fatma,Arslan,Pixel House,  Bursa  ,Netherlands,+90 527 356 15 72,,fatma.arslan272@example.com,2024-10-22,www.pixelhouse.com
+CUST-0273,Zeynep,Sahin,Pixel House,  Izmir  ,Germany,+90 543 654 56 68,+90 591 618 58 33,zeynep.sahin273@example.com,2023-07-11,www.pixelhouse.com
+CUST-0274,Elif,Polat,Blue Market,KONYA,United Kingdom,+90 580 257 88 46,+90 592 429 24 22,  elif.polat274@example.com  ,2023-11-25,www.bluemarket.com
+CUST-0275,  Mehmet  ,DEMIR,  Nova Tech  ,Konya,Azerbaijan,+90 585 362 16 56,+90 519 113 36 93,mehmet.demir275@example.com,2023-07-26,www.novatech.com
+CUST-0276,Ayşe,Aydin,Sun Trade,Adana,Turkey,+90 544 641 15 19,,AYŞE.AYDIN276@EXAMPLE.COM,2023-03-04,www.suntrade.com
+CUST-0277,Fatma,Ozturk,NOVA TECH,Bursa,Germany,+90 581 525 23 91,+90 596 569 99 95,fatma.ozturk277@example.com,2023-04-14,www.novatech.com
+CUST-0278,Mehmet,OZTURK,Artemis Ltd,Samsun,France,+90 551 965 57 62,,mehmet.ozturk278@example.com,2024-05-31,www.artemisltd.com
+CUST-0279,ECE,Sahin,Pixel House,Antalya,Netherlands,+90 560 100 14 46,+90 576 238 48 10,ece.sahin279@example.com,2024-07-12,www.pixelhouse.com
+CUST-0280,Elif,Yilmaz,Sun Trade,  Izmir  ,Netherlands,+90 527 371 56 84,+90 542 930 48 21,elif.yilmaz280@example.com,2023-10-10,www.suntrade.com
+CUST-0281,Fatma,KAYA,Sun Trade,Ankara,  France  ,+90 583 490 20 17,,fatma.kaya281@example.com,2023-11-29,www.suntrade.com
+CUST-0282,Murat,Koc,Nova Tech,  Konya  ,  Azerbaijan  ,+90 579 678 29 51,+90 538 256 16 96,murat.koc282@example.com,2023-08-21,www.novatech.com
+CUST-0283,  Zeynep  ,Polat,Pixel House,  Izmir  ,Turkey,+90 516 661 61 43,+90 574 544 99 26,zeynep.polat283@example.com,2024-05-31,www.pixelhouse.com
+CUST-0284,Fatma,Aydin,Artemis Ltd,BURSA,France,+90 551 801 83 21,+90 562 533 56 54,FATMA.AYDIN284@EXAMPLE.COM,2024-10-29,www.artemisltd.com
+CUST-0285,Elif,POLAT,Sun Trade,Samsun,  Netherlands  ,+90 539 304 97 57,+90 520 215 16 41,elif.polat285@example.com,2023-01-25,www.suntrade.com
+CUST-0286,Can,Yilmaz,Delta Soft,BURSA,Azerbaijan,+90 580 594 89 28,,can.yilmaz286@example.com,2023-04-24,www.deltasoft.com
+CUST-0287,AHMET,Ozturk,Nova Tech,  Antalya  ,United Kingdom,+90 518 497 94 44,,ahmet.ozturk287@example.com,2023-09-19,www.novatech.com
+CUST-0288,Ayşe,Yilmaz,Delta Soft,Ankara,Netherlands,+90 578 190 33 35,+90 568 674 12 15,AYŞE.YILMAZ288@EXAMPLE.COM,2024-10-26,www.deltasoft.com
+CUST-0289,Deniz,CELIK,Delta Soft,Adana,FRANCE,+90 574 382 17 90,+90 559 934 13 81,deniz.celik289@example.com,2024-05-16,www.deltasoft.com
+CUST-0290,  Elif  ,Koc,Sun Trade,Bursa,AZERBAIJAN,+90 549 719 52 67,+90 536 768 27 84,elif.koc290@example.com,2023-05-21,www.suntrade.com
+CUST-0291,Mehmet,Celik,Sun Trade,Izmir,Azerbaijan,+90 550 169 81 78,,MEHMET.CELIK291@EXAMPLE.COM,2024-06-20,www.suntrade.com
+CUST-0292,Elif,Demir,Sun Trade,Konya,United Kingdom,+90 591 856 45 29,,ELIF.DEMIR292@EXAMPLE.COM,2023-01-31,www.suntrade.com
+CUST-0293,Mehmet,Yilmaz,PIXEL HOUSE,BURSA,Turkey,+90 598 898 71 27,+90 587 580 93 57,MEHMET.YILMAZ293@EXAMPLE.COM,2024-09-23,www.pixelhouse.com
+CUST-0294,MURAT,AYDIN,Artemis Ltd,Istanbul,NETHERLANDS,+90 595 307 36 18,+90 566 987 88 72,murat.aydin294@example.com,2023-05-21,www.artemisltd.com
+CUST-0295,Fatma,Koc,Artemis Ltd,Konya,United Kingdom,+90 578 637 92 14,+90 567 567 15 41,fatma.koc295@example.com,2023-02-12,www.artemisltd.com
+CUST-0296,Selin,Yilmaz,  Pixel House  ,Antalya,France,+90 546 572 31 64,+90 516 806 76 28,selin.yilmaz296@example.com,2024-02-01,www.pixelhouse.com
+CUST-0297,Ayşe,Ozturk,Nova Tech,Izmir,France,+90 532 564 85 35,,AYŞE.OZTURK297@EXAMPLE.COM,2023-07-04,www.novatech.com
+CUST-0298,  Elif  ,Demir,Sun Trade,Ankara,Netherlands,+90 575 726 30 58,+90 515 886 31 52,elif.demir298@example.com,2023-05-07,www.suntrade.com
+CUST-0299,Mehmet,  Demir  ,Blue Market,Samsun,  Germany  ,+90 526 307 10 89,,MEHMET.DEMIR299@EXAMPLE.COM,2023-07-03,www.bluemarket.com
+CUST-0300,Zeynep,Aydin,PIXEL HOUSE,Samsun,  Netherlands  ,+90 586 106 41 80,+90 590 670 36 16,ZEYNEP.AYDIN300@EXAMPLE.COM,2023-01-06,www.pixelhouse.com
