@@ -59,25 +59,6 @@ Proje sürecinde aşağıdaki adımlar uygulanmıştır:
 
 `sql/` klasörü içinde proje boyunca kullanılan SQL sorguları yer almaktadır.
 
-Örnek dosyalar:
-
-- `01_create_clean_tables.sql`
-- `02_clean_customers.sql`
-- `03_clean_products.sql`
-- `04_clean_leads.sql`
-- `05_quality_report.sql`
-
-## Ekran Görüntüleri
-
-`screenshots/` klasörü içinde proje adımlarına ait ekran görüntüleri bulunmaktadır.
-
-## Rapor
-
-Proje raporu repo içinde yer almaktadır:
-
-- `report.docx`
-- `report.pdf`
-
 ## Video
 
 Proje anlatım videosu bağlantısı:
